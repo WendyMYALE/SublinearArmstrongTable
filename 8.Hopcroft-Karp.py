@@ -7,8 +7,8 @@ from hopcroftkarp import HopcroftKarp
 import ClassSet
 import FunctionSet
 import Function4Null
-import TableWithNull
-import TableWithNull1
+import Sequence
+import Matched
 
 ## Main
 if __name__ == "__main__":

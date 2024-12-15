@@ -6,7 +6,7 @@ import copy
 import ClassSet
 import FunctionSet
 import Function4Null
-import TableWithNull
+import Sequence
 
 def PairAssign(A, As, Aw, pKey, cKey, R, W, m, n):
     """
