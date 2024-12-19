@@ -1,0 +1,2092 @@
+playerID,award,year,lgID,note,pos
+abelsi01,"First Team All-Star",1948,NHL,NULL,C
+abelsi01,"First Team All-Star",1949,NHL,NULL,C
+abelsi01,Hart,1948,NHL,NULL,NULL
+abelsi01,"Second Team All-Star",1941,NHL,NULL,LW
+abelsi01,"Second Team All-Star",1950,NHL,tie,C
+alfreda01,All-Rookie,1995,NHL,NULL,F
+alfreda01,Calder,1995,NHL,NULL,NULL
+alfreda01,"King Clancy",2011,NHL,NULL,NULL
+alfreda01,"Second Team All-Star",2005,NHL,NULL,RW
+amontto01,All-Rookie,1991,NHL,NULL,RW
+anderto01,"First Team All-Star",1941,NHL,NULL,D
+anderto01,Hart,1941,NHL,NULL,NULL
+antonmi01,"Second Team All-Star",1976,WHA,NULL,LW
+appssy01,Calder,1936,NHL,NULL,NULL
+appssy01,"First Team All-Star",1938,NHL,NULL,C
+appssy01,"First Team All-Star",1941,NHL,NULL,C
+appssy01,"Lady Byng",1941,NHL,NULL,NULL
+appssy01,"Second Team All-Star",1937,NHL,NULL,C
+appssy01,"Second Team All-Star",1940,NHL,NULL,C
+appssy01,"Second Team All-Star",1942,NHL,NULL,C
+arnasty01,All-Rookie,2002,NHL,NULL,F
+arnotja01,All-Rookie,1993,NHL,NULL,C
+ashbeba01,"Second Team All-Star",1973,NHL,NULL,D
+auriela01,"First Team All-Star",1936,NHL,NULL,RW
+backsni01,Crozier,2006,NHL,NULL,NULL
+backsni01,Jennings,2006,NHL,shared,NULL
+backsni02,All-Rookie,2007,NHL,NULL,F
+backsra01,Calder,1958,NHL,NULL,NULL
+backsra01,Deneau,1973,WHA,"Most Gentlemanly",NULL
+baileac01,"Art Ross",1928,NHL,NULL,NULL
+barbebi01,"First Team All-Star",1975,NHL,NULL,LW
+barbebi01,"Second Team All-Star",1978,NHL,NULL,LW
+barbebi01,"Second Team All-Star",1980,NHL,NULL,LW
+barrato01,All-Rookie,1983,NHL,NULL,G
+barrato01,Calder,1983,NHL,NULL,NULL
+barrato01,"First Team All-Star",1983,NHL,NULL,G
+barrato01,Jennings,1984,NHL,shared,NULL
+barrato01,"Second Team All-Star",1984,NHL,NULL,G
+barrato01,"Second Team All-Star",1992,NHL,NULL,G
+barrato01,Vezina,1983,NHL,NULL,NULL
+barryma01,"First Team All-Star",1936,NHL,NULL,C
+barryma01,"Lady Byng",1936,NHL,NULL,NULL
+bathgan01,"First Team All-Star",1958,NHL,NULL,RW
+bathgan01,"First Team All-Star",1961,NHL,NULL,RW
+bathgan01,Hart,1958,NHL,NULL,NULL
+bathgan01,"Second Team All-Star",1957,NHL,NULL,RW
+bathgan01,"Second Team All-Star",1962,NHL,NULL,RW
+bauerbo01,"Lady Byng",1939,NHL,NULL,NULL
+bauerbo01,"Lady Byng",1940,NHL,NULL,NULL
+bauerbo01,"Lady Byng",1946,NHL,NULL,NULL
+bauerbo01,"Second Team All-Star",1938,NHL,NULL,RW
+bauerbo01,"Second Team All-Star",1939,NHL,NULL,RW
+bauerbo01,"Second Team All-Star",1940,NHL,NULL,RW
+bauerbo01,"Second Team All-Star",1946,NHL,NULL,RW
+belfoed01,All-Rookie,1990,NHL,NULL,G
+belfoed01,Calder,1990,NHL,NULL,NULL
+belfoed01,Crozier,1999,NHL,NULL,NULL
+belfoed01,"First Team All-Star",1990,NHL,NULL,G
+belfoed01,"First Team All-Star",1992,NHL,NULL,G
+belfoed01,Jennings,1990,NHL,NULL,NULL
+belfoed01,Jennings,1992,NHL,NULL,NULL
+belfoed01,Jennings,1994,NHL,NULL,NULL
+belfoed01,Jennings,1998,NHL,shared,NULL
+belfoed01,"Second Team All-Star",1994,NHL,NULL,G
+belfoed01,Vezina,1990,NHL,NULL,NULL
+belfoed01,Vezina,1992,NHL,NULL,NULL
+belivje01,"Art Ross",1955,NHL,NULL,NULL
+belivje01,"Conn Smythe",1964,NHL,NULL,NULL
+belivje01,"First Team All-Star",1954,NHL,NULL,C
+belivje01,"First Team All-Star",1955,NHL,NULL,C
+belivje01,"First Team All-Star",1956,NHL,NULL,C
+belivje01,"First Team All-Star",1958,NHL,NULL,C
+belivje01,"First Team All-Star",1959,NHL,NULL,C
+belivje01,"First Team All-Star",1960,NHL,NULL,C
+belivje01,Hart,1955,NHL,NULL,NULL
+belivje01,Hart,1963,NHL,NULL,NULL
+belivje01,"Second Team All-Star",1957,NHL,NULL,C
+belivje01,"Second Team All-Star",1963,NHL,NULL,C
+belivje01,"Second Team All-Star",1965,NHL,NULL,C
+belivje01,"Second Team All-Star",1968,NHL,NULL,C
+bellbr01,All-Rookie,1984,NHL,NULL,D
+bellobr01,"Second Team All-Star",1989,NHL,NULL,LW
+bennibr01,All-Rookie,1986,NHL,NULL,D
+bentldo01,"Art Ross",1942,NHL,NULL,NULL
+bentldo01,"First Team All-Star",1942,NHL,NULL,LW
+bentldo01,"First Team All-Star",1943,NHL,NULL,LW
+bentldo01,"First Team All-Star",1946,NHL,NULL,LW
+bentldo01,"Second Team All-Star",1948,NHL,NULL,C
+bentlma01,"Art Ross",1945,NHL,NULL,NULL
+bentlma01,"Art Ross",1946,NHL,NULL,NULL
+bentlma01,"First Team All-Star",1945,NHL,NULL,C
+bentlma01,Hart,1945,NHL,NULL,NULL
+bentlma01,"Lady Byng",1942,NHL,NULL,NULL
+bentlma01,"Second Team All-Star",1946,NHL,NULL,C
+berarbr01,All-Rookie,1996,NHL,NULL,D
+berarbr01,Calder,1996,NHL,NULL,NULL
+berarbr01,Masterton,2003,NHL,NULL,NULL
+berezse01,All-Rookie,1996,NHL,NULL,F
+bergepa01,Plus-Minus,2011,NHL,NULL,NULL
+bergepa01,Selke,2011,NHL,NULL,NULL
+bergfni01,All-Rookie,2009,NHL,NULL,F
+berglpa01,All-Rookie,2008,NHL,NULL,F
+bernise01,"Playoff MVP",1976,WHA,NULL,NULL
+bernise01,"Second Team All-Star",1974,WHA,NULL,C
+bertuto01,"First Team All-Star",2002,NHL,NULL,RW
+bibeapa01,"Second Team All-Star",1943,NHL,NULL,G
+blackda01,All-Rookie,2001,NHL,NULL,G
+blakeja01,Masterton,2007,NHL,NULL,NULL
+blakero01,All-Rookie,1990,NHL,NULL,D
+blakero01,"First Team All-Star",1997,NHL,NULL,D
+blakero01,Norris,1997,NHL,NULL,NULL
+blakero01,"Second Team All-Star",1999,NHL,NULL,D
+blakero01,"Second Team All-Star",2000,NHL,NULL,D
+blakero01,"Second Team All-Star",2001,NHL,NULL,D
+blaketo01,"Art Ross",1938,NHL,NULL,NULL
+blaketo01,"First Team All-Star",1938,NHL,NULL,LW
+blaketo01,"First Team All-Star",1939,NHL,NULL,LW
+blaketo01,"First Team All-Star",1944,NHL,NULL,LW
+blaketo01,Hart,1938,NHL,NULL,NULL
+blaketo01,"Lady Byng",1945,NHL,NULL,NULL
+blaketo01,"Second Team All-Star",1937,NHL,NULL,LW
+blaketo01,"Second Team All-Star",1945,NHL,NULL,LW
+blincru01,Calder,1933,NHL,NULL,NULL
+bodnagu01,Calder,1943,NHL,NULL,NULL
+bossymi01,Calder,1977,NHL,NULL,NULL
+bossymi01,"Conn Smythe",1981,NHL,NULL,NULL
+bossymi01,"First Team All-Star",1980,NHL,NULL,RW
+bossymi01,"First Team All-Star",1981,NHL,NULL,RW
+bossymi01,"First Team All-Star",1982,NHL,NULL,RW
+bossymi01,"First Team All-Star",1983,NHL,NULL,RW
+bossymi01,"First Team All-Star",1985,NHL,NULL,RW
+bossymi01,"Lady Byng",1982,NHL,NULL,NULL
+bossymi01,"Lady Byng",1983,NHL,NULL,NULL
+bossymi01,"Lady Byng",1985,NHL,NULL,NULL
+bossymi01,"Second Team All-Star",1977,NHL,NULL,RW
+bossymi01,"Second Team All-Star",1978,NHL,NULL,RW
+bossymi01,"Second Team All-Star",1984,NHL,NULL,RW
+bouchbr01,All-Rookie,1999,NHL,NULL,G
+bouchbu01,"First Team All-Star",1944,NHL,NULL,D
+bouchbu01,"First Team All-Star",1945,NHL,NULL,D
+bouchbu01,"First Team All-Star",1946,NHL,NULL,D
+bouchbu01,"Second Team All-Star",1943,NHL,NULL,D
+bouchfr01,"First Team All-Star",1932,NHL,NULL,C
+bouchfr01,"First Team All-Star",1933,NHL,NULL,C
+bouchfr01,"First Team All-Star",1934,NHL,NULL,C
+bouchfr01,"Lady Byng",1927,NHL,NULL,NULL
+bouchfr01,"Lady Byng",1928,NHL,NULL,NULL
+bouchfr01,"Lady Byng",1929,NHL,NULL,NULL
+bouchfr01,"Lady Byng",1930,NHL,NULL,NULL
+bouchfr01,"Lady Byng",1932,NHL,NULL,NULL
+bouchfr01,"Lady Byng",1933,NHL,NULL,NULL
+bouchfr01,"Lady Byng",1934,NHL,NULL,NULL
+bouchfr01,"Second Team All-Star",1930,NHL,NULL,C
+bournbo01,Masterton,1987,NHL,NULL,NULL
+bourqra01,Calder,1979,NHL,NULL,NULL
+bourqra01,"First Team All-Star",1979,NHL,NULL,D
+bourqra01,"First Team All-Star",1981,NHL,NULL,D
+bourqra01,"First Team All-Star",1983,NHL,NULL,D
+bourqra01,"First Team All-Star",1984,NHL,NULL,D
+bourqra01,"First Team All-Star",1986,NHL,NULL,D
+bourqra01,"First Team All-Star",1987,NHL,NULL,D
+bourqra01,"First Team All-Star",1989,NHL,NULL,D
+bourqra01,"First Team All-Star",1990,NHL,NULL,D
+bourqra01,"First Team All-Star",1991,NHL,NULL,D
+bourqra01,"First Team All-Star",1992,NHL,NULL,D
+bourqra01,"First Team All-Star",1993,NHL,NULL,D
+bourqra01,"First Team All-Star",1995,NHL,NULL,D
+bourqra01,"First Team All-Star",2000,NHL,NULL,D
+bourqra01,"King Clancy",1991,NHL,NULL,NULL
+bourqra01,Norris,1986,NHL,NULL,NULL
+bourqra01,Norris,1987,NHL,NULL,NULL
+bourqra01,Norris,1989,NHL,NULL,NULL
+bourqra01,Norris,1990,NHL,NULL,NULL
+bourqra01,Norris,1993,NHL,NULL,NULL
+bourqra01,"Second Team All-Star",1980,NHL,NULL,D
+bourqra01,"Second Team All-Star",1982,NHL,NULL,D
+bourqra01,"Second Team All-Star",1985,NHL,NULL,D
+bourqra01,"Second Team All-Star",1988,NHL,NULL,D
+bourqra01,"Second Team All-Star",1994,NHL,NULL,D
+bourqra01,"Second Team All-Star",1998,NHL,NULL,D
+bouwmja01,All-Rookie,2002,NHL,NULL,D
+bowerjo01,"First Team All-Star",1960,NHL,NULL,G
+bowerjo01,Vezina,1960,NHL,NULL,NULL
+bowerjo01,Vezina,1964,NHL,shared,NULL
+boyesbr01,All-Rookie,2005,NHL,NULL,F
+boyleda01,"Second Team All-Star",2006,NHL,NULL,D
+boyleda01,"Second Team All-Star",2008,NHL,NULL,D
+boyntni01,All-Rookie,2001,NHL,NULL,D
+breweca01,"First Team All-Star",1962,NHL,NULL,D
+breweca01,"Second Team All-Star",1961,NHL,NULL,D
+breweca01,"Second Team All-Star",1964,NHL,NULL,D
+breweca01,"Second Team All-Star",1969,NHL,NULL,D
+brimsfr01,Calder,1938,NHL,NULL,NULL
+brimsfr01,"First Team All-Star",1938,NHL,NULL,G
+brimsfr01,"First Team All-Star",1941,NHL,NULL,G
+brimsfr01,"Second Team All-Star",1939,NHL,NULL,G
+brimsfr01,"Second Team All-Star",1940,NHL,NULL,G
+brimsfr01,"Second Team All-Star",1942,NHL,NULL,G
+brimsfr01,"Second Team All-Star",1945,NHL,NULL,G
+brimsfr01,"Second Team All-Star",1946,NHL,NULL,G
+brimsfr01,"Second Team All-Star",1947,NHL,NULL,G
+brimsfr01,Vezina,1938,NHL,NULL,NULL
+brimsfr01,Vezina,1941,NHL,NULL,NULL
+brindro01,All-Rookie,1989,NHL,NULL,LW
+brindro01,Selke,2005,NHL,NULL,NULL
+brindro01,Selke,2006,NHL,NULL,NULL
+broadpu01,"Art Ross",1921,NHL,NULL,NULL
+brodatu01,"First Team All-Star",1940,NHL,NULL,G
+brodatu01,"First Team All-Star",1947,NHL,NULL,G
+brodatu01,"Second Team All-Star",1941,NHL,NULL,G
+brodatu01,Vezina,1940,NHL,NULL,NULL
+brodatu01,Vezina,1947,NHL,NULL,NULL
+brodema01,All-Rookie,1993,NHL,NULL,G
+brodema01,Calder,1993,NHL,NULL,NULL
+brodema01,"First Team All-Star",2002,NHL,NULL,G
+brodema01,"First Team All-Star",2003,NHL,NULL,G
+brodema01,"First Team All-Star",2006,NHL,NULL,G
+brodema01,Jennings,1996,NHL,shared,NULL
+brodema01,Jennings,1997,NHL,NULL,NULL
+brodema01,Jennings,2002,NHL,shared,NULL
+brodema01,Jennings,2003,NHL,NULL,NULL
+brodema01,Jennings,2009,NHL,NULL,NULL
+brodema01,"Second Team All-Star",1996,NHL,NULL,G
+brodema01,"Second Team All-Star",1997,NHL,NULL,G
+brodema01,"Second Team All-Star",2005,NHL,NULL,G
+brodema01,"Second Team All-Star",2007,NHL,NULL,G
+brodema01,Vezina,2002,NHL,NULL,NULL
+brodema01,Vezina,2003,NHL,NULL,NULL
+brodema01,Vezina,2006,NHL,NULL,NULL
+brodema01,Vezina,2007,NHL,NULL,NULL
+broderi01,"Second Team All-Star",1978,WHA,NULL,G
+bryzgil01,"Second Team All-Star",2009,NHL,NULL,G
+bucykjo01,"First Team All-Star",1970,NHL,NULL,LW
+bucykjo01,"Lady Byng",1970,NHL,NULL,NULL
+bucykjo01,"Lady Byng",1973,NHL,NULL,NULL
+bucykjo01,"Second Team All-Star",1967,NHL,NULL,LW
+bullehy01,"Second Team All-Star",1951,NHL,NULL,D
+burchbi01,Hart,1924,NHL,NULL,NULL
+burchbi01,"Lady Byng",1926,NHL,NULL,NULL
+burepa01,Calder,1991,NHL,NULL,NULL
+burepa01,"First Team All-Star",1993,NHL,NULL,RW
+burepa01,Richard,1999,NHL,NULL,NULL
+burepa01,Richard,2000,NHL,NULL,NULL
+burepa01,"Second Team All-Star",1999,NHL,NULL,RW
+burepa01,"Second Team All-Star",2000,NHL,NULL,RW
+caffete01,Kaplan,1972,WHA,Rookie,NULL
+cainhe01,"Art Ross",1943,NHL,NULL,NULL
+cainhe01,"Second Team All-Star",1943,NHL,NULL,LW
+campbbr02,"Lady Byng",2011,NHL,NULL,NULL
+campbbr02,"Second Team All-Star",2007,NHL,NULL,D
+campbji01,All-Rookie,1996,NHL,NULL,F
+carbogu01,Selke,1987,NHL,NULL,NULL
+carbogu01,Selke,1988,NHL,NULL,NULL
+carbogu01,Selke,1991,NHL,NULL,NULL
+careyji01,All-Rookie,1994,NHL,NULL,G
+careyji01,"First Team All-Star",1995,NHL,NULL,G
+careyji01,Vezina,1995,NHL,NULL,NULL
+carlema01,All-Rookie,2006,NHL,NULL,D
+carlewa01,"Second Team All-Star",1973,WHA,NULL,C
+carlsjo01,All-Rookie,2010,NHL,NULL,D
+carlyra01,"First Team All-Star",1980,NHL,NULL,D
+carlyra01,Norris,1980,NHL,NULL,NULL
+caronse01,All-Rookie,2002,NHL,NULL,G
+carrlo01,"First Team All-Star",1942,NHL,NULL,RW
+carrlo01,"First Team All-Star",1943,NHL,NULL,RW
+carsoji01,All-Rookie,1986,NHL,NULL,C
+cashmwa01,"Second Team All-Star",1973,NHL,NULL,LW
+cavalpa01,Plus-Minus,1989,NHL,NULL,NULL
+cechmro01,Jennings,2002,NHL,shared,NULL
+cechmro01,"Second Team All-Star",2000,NHL,NULL,G
+chabolo01,"First Team All-Star",1934,NHL,NULL,G
+chabolo01,Vezina,1934,NHL,NULL,NULL
+chapmar01,"Second Team All-Star",1936,NHL,NULL,C
+charazd01,"First Team All-Star",2003,NHL,NULL,D
+charazd01,"First Team All-Star",2008,NHL,NULL,D
+charazd01,Messier,2010,NHL,NULL,NULL
+charazd01,Norris,2008,NHL,NULL,NULL
+charazd01,Plus-Minus,2010,NHL,NULL,NULL
+charazd01,"Second Team All-Star",2005,NHL,NULL,D
+charazd01,"Second Team All-Star",2007,NHL,NULL,D
+charazd01,"Second Team All-Star",2010,NHL,NULL,D
+charazd01,"Second Team All-Star",2011,NHL,NULL,D
+chaseke01,"King Clancy",1997,NHL,NULL,NULL
+cheecjo01,Richard,2005,NHL,NULL,NULL
+cheevge01,"First Team All-Star",1972,WHA,NULL,G
+cheevge01,Hatskin,1972,WHA,"Best Goaltender",NULL
+cheevge01,"Second Team All-Star",1973,WHA,NULL,G
+cheevge01,"Second Team All-Star",1974,WHA,NULL,G
+chelich01,All-Rookie,1984,NHL,NULL,D
+chelich01,"First Team All-Star",1988,NHL,NULL,D
+chelich01,"First Team All-Star",1992,NHL,NULL,D
+chelich01,"First Team All-Star",1994,NHL,NULL,D
+chelich01,"First Team All-Star",1995,NHL,NULL,D
+chelich01,"First Team All-Star",2001,NHL,NULL,D
+chelich01,Messier,2006,NHL,NULL,NULL
+chelich01,Norris,1988,NHL,NULL,NULL
+chelich01,Norris,1992,NHL,NULL,NULL
+chelich01,Norris,1995,NHL,NULL,NULL
+chelich01,Plus-Minus,2001,NHL,NULL,NULL
+chelich01,"Second Team All-Star",1990,NHL,NULL,D
+chelich01,"Second Team All-Star",1996,NHL,NULL,D
+chevrre01,"Second Team All-Star",1956,NHL,NULL,LW
+clancki01,"First Team All-Star",1930,NHL,NULL,D
+clancki01,"First Team All-Star",1933,NHL,NULL,D
+clancki01,"Second Team All-Star",1931,NHL,NULL,D
+clancki01,"Second Team All-Star",1932,NHL,NULL,D
+clappdi01,"First Team All-Star",1938,NHL,NULL,D
+clappdi01,"First Team All-Star",1939,NHL,NULL,D
+clappdi01,"First Team All-Star",1940,NHL,NULL,D
+clappdi01,"Second Team All-Star",1930,NHL,NULL,RW
+clappdi01,"Second Team All-Star",1934,NHL,NULL,RW
+clappdi01,"Second Team All-Star",1943,NHL,NULL,D
+clarkbo01,"First Team All-Star",1974,NHL,NULL,C
+clarkbo01,"First Team All-Star",1975,NHL,NULL,C
+clarkbo01,Hart,1972,NHL,NULL,NULL
+clarkbo01,Hart,1974,NHL,NULL,NULL
+clarkbo01,Hart,1975,NHL,NULL,NULL
+clarkbo01,Masterton,1971,NHL,NULL,NULL
+clarkbo01,Pearson,1973,NHL,NULL,NULL
+clarkbo01,"Second Team All-Star",1972,NHL,NULL,C
+clarkbo01,"Second Team All-Star",1973,NHL,NULL,C
+clarkbo01,Selke,1982,NHL,NULL,NULL
+clarkwe01,All-Rookie,1985,NHL,NULL,LW
+cleghod01,"Art Ross",1918,NHL,NULL,NULL
+cloutre01,"First Team All-Star",1978,WHA,NULL,RW
+cloutre01,Hunter,1976,WHA,Scoring,NULL
+cloutre01,Hunter,1978,WHA,Scoring,NULL
+cloutre01,"Second Team All-Star",1975,WHA,NULL,RW
+cloutre01,"Second Team All-Star",1976,WHA,NULL,RW
+cloutre01,"Second Team All-Star",1977,WHA,NULL,RW
+coffepa01,"First Team All-Star",1984,NHL,NULL,D
+coffepa01,"First Team All-Star",1985,NHL,NULL,D
+coffepa01,"First Team All-Star",1988,NHL,NULL,D
+coffepa01,"First Team All-Star",1994,NHL,NULL,D
+coffepa01,Norris,1984,NHL,NULL,NULL
+coffepa01,Norris,1985,NHL,NULL,NULL
+coffepa01,Norris,1994,NHL,NULL,NULL
+coffepa01,"Second Team All-Star",1981,NHL,NULL,D
+coffepa01,"Second Team All-Star",1982,NHL,NULL,D
+coffepa01,"Second Team All-Star",1983,NHL,NULL,D
+coffepa01,"Second Team All-Star",1989,NHL,NULL,D
+colvine01,"Second Team All-Star",1938,NHL,NULL,C
+colvine01,"Second Team All-Star",1939,NHL,NULL,C
+colvine01,"Second Team All-Star",1947,NHL,NULL,D
+conacch01,"Art Ross",1933,NHL,NULL,NULL
+conacch01,"Art Ross",1934,NHL,NULL,NULL
+conacch01,"First Team All-Star",1933,NHL,NULL,RW
+conacch01,"First Team All-Star",1934,NHL,NULL,RW
+conacch01,"First Team All-Star",1935,NHL,NULL,RW
+conacch01,"Second Team All-Star",1931,NHL,NULL,RW
+conacch01,"Second Team All-Star",1932,NHL,NULL,RW
+conacli01,"First Team All-Star",1933,NHL,NULL,D
+conacli01,"Second Team All-Star",1932,NHL,NULL,D
+conacli01,"Second Team All-Star",1936,NHL,NULL,D
+conacro01,"Art Ross",1948,NHL,NULL,NULL
+conacro01,"First Team All-Star",1948,NHL,NULL,LW
+cookbi01,"Art Ross",1926,NHL,NULL,NULL
+cookbi01,"Art Ross",1932,NHL,NULL,NULL
+cookbi01,"First Team All-Star",1930,NHL,NULL,RW
+cookbi01,"First Team All-Star",1931,NHL,NULL,RW
+cookbi01,"First Team All-Star",1932,NHL,NULL,RW
+cookbi01,"Second Team All-Star",1933,NHL,NULL,RW
+cookbu01,"Second Team All-Star",1930,NHL,NULL,LW
+coultar01,"Second Team All-Star",1934,NHL,NULL,D
+coultar01,"Second Team All-Star",1937,NHL,NULL,D
+coultar01,"Second Team All-Star",1938,NHL,NULL,D
+coultar01,"Second Team All-Star",1939,NHL,NULL,D
+cournyv01,"Conn Smythe",1972,NHL,NULL,NULL
+cournyv01,"Second Team All-Star",1968,NHL,NULL,RW
+cournyv01,"Second Team All-Star",1970,NHL,NULL,RW
+cournyv01,"Second Team All-Star",1971,NHL,NULL,RW
+cournyv01,"Second Team All-Star",1972,NHL,NULL,RW
+coutulo01,All-Rookie,2010,NHL,NULL,F
+cowlebi01,"Art Ross",1940,NHL,NULL,NULL
+cowlebi01,"First Team All-Star",1937,NHL,NULL,C
+cowlebi01,"First Team All-Star",1940,NHL,NULL,C
+cowlebi01,"First Team All-Star",1942,NHL,NULL,C
+cowlebi01,"First Team All-Star",1943,NHL,NULL,C
+cowlebi01,Hart,1940,NHL,NULL,NULL
+cowlebi01,Hart,1942,NHL,NULL,NULL
+cowlebi01,"Second Team All-Star",1944,NHL,NULL,C
+crawfco01,All-Rookie,2010,NHL,NULL,G
+crawfja01,"First Team All-Star",1945,NHL,NULL,D
+crawfja01,"Second Team All-Star",1942,NHL,NULL,D
+crosbsi01,All-Rookie,2005,NHL,NULL,F
+crosbsi01,"Art Ross",2006,NHL,NULL,NULL
+crosbsi01,"First Team All-Star",2006,NHL,NULL,C
+crosbsi01,Hart,2006,NHL,NULL,NULL
+crosbsi01,Messier,2009,NHL,NULL,NULL
+crosbsi01,Pearson,2006,NHL,NULL,NULL
+crosbsi01,Richard,2009,NHL,shared,NULL
+crosbsi01,"Second Team All-Star",2009,NHL,NULL,C
+croziro01,Calder,1964,NHL,NULL,NULL
+croziro01,"Conn Smythe",1965,NHL,NULL,NULL
+croziro01,"First Team All-Star",1964,NHL,NULL,G
+cudewi01,"Second Team All-Star",1935,NHL,NULL,G
+cudewi01,"Second Team All-Star",1936,NHL,NULL,G
+cullejo01,Masterton,1998,NHL,NULL,NULL
+dafoeby01,"Second Team All-Star",1998,NHL,NULL,G
+dahlikj01,All-Rookie,1985,NHL,NULL,RW
+dahlscu01,Calder,1937,NHL,NULL,NULL
+daleyjo01,"First Team All-Star",1975,WHA,NULL,G
+daleyjo01,"Second Team All-Star",1976,WHA,NULL,G
+daneyke01,Masterton,1999,NHL,NULL,NULL
+daousda01,All-Rookie,1982,NHL,NULL,C
+datsypa01,"Lady Byng",2005,NHL,NULL,NULL
+datsypa01,"Lady Byng",2006,NHL,NULL,NULL
+datsypa01,"Lady Byng",2007,NHL,NULL,NULL
+datsypa01,"Lady Byng",2008,NHL,NULL,NULL
+datsypa01,Plus-Minus,2007,NHL,NULL,NULL
+datsypa01,"Second Team All-Star",2008,NHL,NULL,C
+datsypa01,Selke,2007,NHL,NULL,NULL
+datsypa01,Selke,2008,NHL,NULL,NULL
+datsypa01,Selke,2009,NHL,NULL,NULL
+dazeer01,All-Rookie,1995,NHL,NULL,F
+dejorde01,Vezina,1966,NHL,shared,NULL
+delveal01,"Lady Byng",1958,NHL,NULL,NULL
+delveal01,"Lady Byng",1965,NHL,NULL,NULL
+delveal01,"Lady Byng",1968,NHL,NULL,NULL
+delveal01,"Second Team All-Star",1952,NHL,NULL,C
+delveal01,"Second Team All-Star",1958,NHL,NULL,LW
+delzomi01,All-Rookie,2009,NHL,NULL,D
+demitpa01,"Lady Byng",1999,NHL,NULL,NULL
+dennecy01,"Art Ross",1923,NHL,NULL,NULL
+desjaer01,"Second Team All-Star",1998,NHL,NULL,D
+desjaer01,"Second Team All-Star",1999,NHL,NULL,D
+dilloce01,"First Team All-Star",1937,NHL,tie,RW
+dilloce01,"Second Team All-Star",1935,NHL,NULL,RW
+dilloce01,"Second Team All-Star",1936,NHL,NULL,RW
+dionmi01,Hatskin,1975,WHA,"Best Goaltender",NULL
+dionngi01,All-Rookie,1991,NHL,NULL,LW
+dionnma01,"Art Ross",1979,NHL,NULL,NULL
+dionnma01,"First Team All-Star",1976,NHL,NULL,C
+dionnma01,"First Team All-Star",1979,NHL,NULL,C
+dionnma01,"Lady Byng",1974,NHL,NULL,NULL
+dionnma01,"Lady Byng",1976,NHL,NULL,NULL
+dionnma01,Pearson,1978,NHL,NULL,NULL
+dionnma01,Pearson,1979,NHL,NULL,NULL
+dionnma01,"Second Team All-Star",1978,NHL,NULL,C
+dionnma01,"Second Team All-Star",1980,NHL,NULL,C
+doansh01,"King Clancy",2009,NHL,NULL,NULL
+doansh01,Messier,2011,NHL,NULL,NULL
+doreyji01,"Second Team All-Star",1972,WHA,NULL,D
+doughdr01,All-Rookie,2008,NHL,NULL,D
+doughdr01,"Second Team All-Star",2009,NHL,NULL,D
+douglke01,Calder,1962,NHL,NULL,NULL
+drapekr01,Selke,2003,NHL,NULL,NULL
+drillgo01,"Art Ross",1937,NHL,NULL,NULL
+drillgo01,"First Team All-Star",1937,NHL,tie,RW
+drillgo01,"First Team All-Star",1938,NHL,NULL,RW
+drillgo01,"Lady Byng",1937,NHL,NULL,NULL
+drillgo01,"Second Team All-Star",1941,NHL,NULL,RW
+drurych01,All-Rookie,1998,NHL,NULL,F
+drurych01,Calder,1998,NHL,NULL,NULL
+drydeda01,"First Team All-Star",1978,WHA,NULL,G
+drydeda01,Hatskin,1978,WHA,"Best Goaltender",NULL
+drydeda01,Howe,1978,WHA,MVP,NULL
+drydeke01,Calder,1971,NHL,NULL,NULL
+drydeke01,"Conn Smythe",1970,NHL,NULL,NULL
+drydeke01,"First Team All-Star",1972,NHL,NULL,G
+drydeke01,"First Team All-Star",1975,NHL,NULL,G
+drydeke01,"First Team All-Star",1976,NHL,NULL,G
+drydeke01,"First Team All-Star",1977,NHL,NULL,G
+drydeke01,"First Team All-Star",1978,NHL,NULL,G
+drydeke01,"Second Team All-Star",1971,NHL,NULL,G
+drydeke01,Vezina,1972,NHL,NULL,NULL
+drydeke01,Vezina,1975,NHL,NULL,NULL
+drydeke01,Vezina,1976,NHL,shared,NULL
+drydeke01,Vezina,1977,NHL,shared,NULL
+drydeke01,Vezina,1978,NHL,shared,NULL
+duchema01,All-Rookie,2009,NHL,NULL,F
+duchest01,All-Rookie,1986,NHL,NULL,D
+dumarwo01,"Second Team All-Star",1939,NHL,NULL,LW
+dumarwo01,"Second Team All-Star",1940,NHL,NULL,LW
+dumarwo01,"Second Team All-Star",1946,NHL,NULL,LW
+duncaia01,All-Rookie,1987,NHL,NULL,LW
+dunhami01,Jennings,1996,NHL,shared,NULL
+dunlobl01,Masterton,1980,NHL,NULL,NULL
+durnabi01,"First Team All-Star",1943,NHL,NULL,G
+durnabi01,"First Team All-Star",1944,NHL,NULL,G
+durnabi01,"First Team All-Star",1945,NHL,NULL,G
+durnabi01,"First Team All-Star",1946,NHL,NULL,G
+durnabi01,"First Team All-Star",1948,NHL,NULL,G
+durnabi01,"First Team All-Star",1949,NHL,NULL,G
+durnabi01,Vezina,1943,NHL,NULL,NULL
+durnabi01,Vezina,1944,NHL,NULL,NULL
+durnabi01,Vezina,1945,NHL,NULL,NULL
+durnabi01,Vezina,1946,NHL,NULL,NULL
+durnabi01,Vezina,1948,NHL,NULL,NULL
+durnabi01,Vezina,1949,NHL,NULL,NULL
+dyeba01,"Art Ross",1922,NHL,NULL,NULL
+dyeba01,"Art Ross",1924,NHL,NULL,NULL
+edwardo01,"Second Team All-Star",1977,NHL,NULL,G
+edwardo01,"Second Team All-Star",1979,NHL,NULL,G
+edwardo01,Vezina,1979,NHL,shared,NULL
+eganpa01,"Second Team All-Star",1941,NHL,NULL,D
+eliaspa01,All-Rookie,1997,NHL,NULL,F
+eliaspa01,"First Team All-Star",2000,NHL,NULL,LW
+eliaspa01,Plus-Minus,2000,NHL,tie,NULL
+elliobr01,Crozier,2011,NHL,NULL,NULL
+elliobr01,Jennings,2011,NHL,shared,NULL
+ellisda01,Crozier,2007,NHL,NULL,NULL
+engblbr01,"Second Team All-Star",1981,NHL,NULL,D
+enrotjh01,All-Rookie,2011,NHL,NULL,G
+enstrto01,All-Rookie,2007,NHL,NULL,D
+eriksth01,All-Rookie,1983,NHL,NULL,D
+eschero01,Jennings,2002,NHL,shared,NULL
+esposph01,"Art Ross",1968,NHL,NULL,NULL
+esposph01,"Art Ross",1970,NHL,NULL,NULL
+esposph01,"Art Ross",1971,NHL,NULL,NULL
+esposph01,"Art Ross",1972,NHL,NULL,NULL
+esposph01,"Art Ross",1973,NHL,NULL,NULL
+esposph01,"First Team All-Star",1968,NHL,NULL,C
+esposph01,"First Team All-Star",1969,NHL,NULL,C
+esposph01,"First Team All-Star",1970,NHL,NULL,C
+esposph01,"First Team All-Star",1971,NHL,NULL,C
+esposph01,"First Team All-Star",1972,NHL,NULL,C
+esposph01,"First Team All-Star",1973,NHL,NULL,C
+esposph01,Hart,1968,NHL,NULL,NULL
+esposph01,Hart,1973,NHL,NULL,NULL
+esposph01,Pearson,1970,NHL,NULL,NULL
+esposph01,Pearson,1972,NHL,NULL,NULL
+esposph01,"Second Team All-Star",1967,NHL,NULL,C
+esposph01,"Second Team All-Star",1974,NHL,NULL,C
+esposto01,Calder,1969,NHL,NULL,NULL
+esposto01,"First Team All-Star",1969,NHL,NULL,G
+esposto01,"First Team All-Star",1971,NHL,NULL,G
+esposto01,"First Team All-Star",1979,NHL,NULL,G
+esposto01,"Second Team All-Star",1972,NHL,NULL,G
+esposto01,"Second Team All-Star",1973,NHL,NULL,G
+esposto01,Vezina,1969,NHL,NULL,NULL
+esposto01,Vezina,1971,NHL,shared,NULL
+esposto01,Vezina,1973,NHL,tie,NULL
+essenbo01,All-Rookie,1989,NHL,NULL,G
+faulkju01,All-Rookie,2011,NHL,NULL,D
+fedorse01,All-Rookie,1990,NHL,NULL,C
+fedorse01,"First Team All-Star",1993,NHL,NULL,C
+fedorse01,Hart,1993,NHL,NULL,NULL
+fedorse01,Pearson,1993,NHL,NULL,NULL
+fedorse01,Selke,1993,NHL,NULL,NULL
+fedorse01,Selke,1995,NHL,NULL,NULL
+fernama01,Jennings,2006,NHL,shared,NULL
+fernama01,Jennings,2008,NHL,shared,NULL
+fitzpma01,Masterton,1991,NHL,NULL,NULL
+flamafe01,"Second Team All-Star",1954,NHL,NULL,D
+flamafe01,"Second Team All-Star",1956,NHL,NULL,D
+flamafe01,"Second Team All-Star",1957,NHL,NULL,D
+fleurth01,Plus-Minus,1990,NHL,tie,NULL
+fleurth01,"Second Team All-Star",1994,NHL,NULL,RW
+forsbpe01,All-Rookie,1994,NHL,NULL,F
+forsbpe01,"Art Ross",2002,NHL,NULL,NULL
+forsbpe01,Calder,1994,NHL,NULL,NULL
+forsbpe01,"First Team All-Star",1997,NHL,NULL,C
+forsbpe01,"First Team All-Star",1998,NHL,NULL,C
+forsbpe01,"First Team All-Star",2002,NHL,NULL,C
+forsbpe01,Hart,2002,NHL,NULL,NULL
+forsbpe01,Plus-Minus,2002,NHL,tie,NULL
+francro01,"King Clancy",2001,NHL,NULL,NULL
+francro01,"Lady Byng",1994,NHL,NULL,NULL
+francro01,"Lady Byng",1997,NHL,NULL,NULL
+francro01,"Lady Byng",2001,NHL,NULL,NULL
+francro01,Plus-Minus,1994,NHL,NULL,NULL
+francro01,Selke,1994,NHL,NULL,NULL
+friesje01,All-Rookie,1994,NHL,NULL,F
+froesbo01,Jennings,1985,NHL,shared,NULL
+froesbo01,"Second Team All-Star",1985,NHL,NULL,G
+ftorero01,"First Team All-Star",1976,WHA,NULL,C
+ftorero01,"First Team All-Star",1978,WHA,NULL,C
+ftorero01,Howe,1976,WHA,MVP,NULL
+ftorero01,"Second Team All-Star",1975,WHA,NULL,C
+ftorero01,"Second Team All-Star",1977,WHA,NULL,C
+fuhrgr01,"First Team All-Star",1987,NHL,NULL,G
+fuhrgr01,Jennings,1993,NHL,shared,NULL
+fuhrgr01,"Second Team All-Star",1981,NHL,NULL,G
+fuhrgr01,Vezina,1987,NHL,NULL,NULL
+gaborma01,"Second Team All-Star",2011,NHL,NULL,RW
+gadsbbi01,"First Team All-Star",1955,NHL,NULL,D
+gadsbbi01,"First Team All-Star",1957,NHL,NULL,D
+gadsbbi01,"First Team All-Star",1958,NHL,NULL,D
+gadsbbi01,"Second Team All-Star",1952,NHL,NULL,D
+gadsbbi01,"Second Team All-Star",1953,NHL,NULL,D
+gadsbbi01,"Second Team All-Star",1956,NHL,NULL,D
+gadsbbi01,"Second Team All-Star",1964,NHL,NULL,D
+gagnesi01,All-Rookie,1999,NHL,NULL,F
+gainebo01,"Conn Smythe",1978,NHL,NULL,NULL
+gainebo01,Selke,1977,NHL,NULL,NULL
+gainebo01,Selke,1978,NHL,NULL,NULL
+gainebo01,Selke,1979,NHL,NULL,NULL
+gainebo01,Selke,1980,NHL,NULL,NULL
+gallage01,"Second Team All-Star",1988,NHL,NULL,LW
+gardich01,"First Team All-Star",1930,NHL,NULL,G
+gardich01,"First Team All-Star",1931,NHL,NULL,G
+gardich01,"First Team All-Star",1933,NHL,NULL,G
+gardich01,"Second Team All-Star",1932,NHL,NULL,G
+gardich01,Vezina,1931,NHL,NULL,NULL
+gardich01,Vezina,1933,NHL,NULL,NULL
+gardihe01,Hart,1926,NHL,NULL,NULL
+gardija01,All-Rookie,2011,NHL,NULL,D
+gareda01,"Second Team All-Star",1979,NHL,NULL,RW
+garrejo01,"First Team All-Star",1976,WHA,NULL,G
+gelinja01,Calder,1949,NHL,NULL,NULL
+geoffbe01,"Art Ross",1954,NHL,NULL,NULL
+geoffbe01,"Art Ross",1960,NHL,NULL,NULL
+geoffbe01,Calder,1951,NHL,NULL,NULL
+geoffbe01,"First Team All-Star",1960,NHL,NULL,RW
+geoffbe01,Hart,1960,NHL,NULL,NULL
+geoffbe01,"Second Team All-Star",1954,NHL,NULL,RW
+geoffbe01,"Second Team All-Star",1959,NHL,NULL,RW
+giacoed01,"First Team All-Star",1966,NHL,NULL,G
+giacoed01,"First Team All-Star",1970,NHL,NULL,G
+giacoed01,"Second Team All-Star",1967,NHL,NULL,G
+giacoed01,"Second Team All-Star",1968,NHL,NULL,G
+giacoed01,"Second Team All-Star",1969,NHL,NULL,G
+giacoed01,Vezina,1970,NHL,shared,NULL
+gigueje01,"Conn Smythe",2002,NHL,NULL,NULL
+gilbero01,"First Team All-Star",1971,NHL,NULL,RW
+gilbero01,Masterton,1975,NHL,NULL,NULL
+gilbero01,"Second Team All-Star",1967,NHL,NULL,RW
+gilbeto01,All-Rookie,2007,NHL,NULL,D
+gillicl01,"First Team All-Star",1977,NHL,NULL,LW
+gillicl01,"First Team All-Star",1978,NHL,NULL,LW
+gilmodo01,Selke,1992,NHL,NULL,NULL
+goldhbo01,"Second Team All-Star",1954,NHL,NULL,D
+gomezsc01,All-Rookie,1999,NHL,NULL,F
+gomezsc01,Calder,1999,NHL,NULL,NULL
+gonchse01,"Second Team All-Star",2001,NHL,NULL,D
+gonchse01,"Second Team All-Star",2002,NHL,NULL,D
+goodfeb01,"First Team All-Star",1936,NHL,NULL,D
+goodfeb01,"First Team All-Star",1939,NHL,NULL,D
+goodfeb01,Hart,1939,NHL,NULL,NULL
+goodfeb01,"Second Team All-Star",1935,NHL,NULL,D
+gorinbu01,"Conn Smythe",1980,NHL,NULL,NULL
+gorinbu01,"Lady Byng",1977,NHL,NULL,NULL
+gorinbu01,Masterton,1977,NHL,NULL,NULL
+gottsjo01,"Second Team All-Star",1938,NHL,NULL,LW
+goulemi01,"First Team All-Star",1983,NHL,NULL,LW
+goulemi01,"First Team All-Star",1985,NHL,NULL,LW
+goulemi01,"First Team All-Star",1986,NHL,NULL,LW
+goulemi01,"Second Team All-Star",1982,NHL,NULL,LW
+goulemi01,"Second Team All-Star",1987,NHL,NULL,LW
+goyetph01,"Lady Byng",1969,NHL,NULL,NULL
+grabnmi01,All-Rookie,2010,NHL,NULL,F
+grahadi01,Selke,1990,NHL,NULL,NULL
+graharo02,"First Team All-Star",1974,WHA,NULL,G
+graharo02,Hatskin,1974,WHA,"Best Goaltender",NULL
+graharo02,Hatskin,1976,WHA,"Best Goaltender",NULL
+graharo02,"Playoff MVP",1974,WHA,NULL,NULL
+graharo02,"Second Team All-Star",1975,WHA,NULL,G
+granato01,All-Rookie,1988,NHL,NULL,RW
+granato01,Masterton,1996,NHL,NULL,NULL
+grantda01,Calder,1968,NHL,NULL,NULL
+gravead01,"King Clancy",1993,NHL,NULL,NULL
+gravead01,Masterton,2000,NHL,NULL,NULL
+gravead01,"Second Team All-Star",1993,NHL,NULL,LW
+greenmi03,"First Team All-Star",2008,NHL,NULL,D
+greenmi03,"First Team All-Star",2009,NHL,NULL,D
+greente01,"Second Team All-Star",1968,NHL,NULL,D
+gretzwa01,"Art Ross",1980,NHL,NULL,NULL
+gretzwa01,"Art Ross",1981,NHL,NULL,NULL
+gretzwa01,"Art Ross",1982,NHL,NULL,NULL
+gretzwa01,"Art Ross",1983,NHL,NULL,NULL
+gretzwa01,"Art Ross",1984,NHL,NULL,NULL
+gretzwa01,"Art Ross",1985,NHL,NULL,NULL
+gretzwa01,"Art Ross",1986,NHL,NULL,NULL
+gretzwa01,"Art Ross",1989,NHL,NULL,NULL
+gretzwa01,"Art Ross",1990,NHL,NULL,NULL
+gretzwa01,"Art Ross",1993,NHL,NULL,NULL
+gretzwa01,"Conn Smythe",1984,NHL,NULL,NULL
+gretzwa01,"Conn Smythe",1987,NHL,NULL,NULL
+gretzwa01,"First Team All-Star",1980,NHL,NULL,C
+gretzwa01,"First Team All-Star",1981,NHL,NULL,C
+gretzwa01,"First Team All-Star",1982,NHL,NULL,C
+gretzwa01,"First Team All-Star",1983,NHL,NULL,C
+gretzwa01,"First Team All-Star",1984,NHL,NULL,C
+gretzwa01,"First Team All-Star",1985,NHL,NULL,C
+gretzwa01,"First Team All-Star",1986,NHL,NULL,C
+gretzwa01,"First Team All-Star",1990,NHL,NULL,C
+gretzwa01,Hart,1979,NHL,NULL,NULL
+gretzwa01,Hart,1980,NHL,NULL,NULL
+gretzwa01,Hart,1981,NHL,NULL,NULL
+gretzwa01,Hart,1982,NHL,NULL,NULL
+gretzwa01,Hart,1983,NHL,NULL,NULL
+gretzwa01,Hart,1984,NHL,NULL,NULL
+gretzwa01,Hart,1985,NHL,NULL,NULL
+gretzwa01,Hart,1986,NHL,NULL,NULL
+gretzwa01,Hart,1988,NHL,NULL,NULL
+gretzwa01,Kaplan,1978,WHA,Rookie,NULL
+gretzwa01,"Lady Byng",1979,NHL,NULL,NULL
+gretzwa01,"Lady Byng",1990,NHL,NULL,NULL
+gretzwa01,"Lady Byng",1991,NHL,NULL,NULL
+gretzwa01,"Lady Byng",1993,NHL,NULL,NULL
+gretzwa01,"Lady Byng",1998,NHL,NULL,NULL
+gretzwa01,Pearson,1981,NHL,NULL,NULL
+gretzwa01,Pearson,1982,NHL,NULL,NULL
+gretzwa01,Pearson,1983,NHL,NULL,NULL
+gretzwa01,Pearson,1984,NHL,NULL,NULL
+gretzwa01,Pearson,1986,NHL,NULL,NULL
+gretzwa01,Plus-Minus,1983,NHL,NULL,NULL
+gretzwa01,Plus-Minus,1984,NHL,NULL,NULL
+gretzwa01,Plus-Minus,1986,NHL,NULL,NULL
+gretzwa01,"Second Team All-Star",1978,WHA,NULL,C
+gretzwa01,"Second Team All-Star",1979,NHL,NULL,C
+gretzwa01,"Second Team All-Star",1987,NHL,NULL,C
+gretzwa01,"Second Team All-Star",1988,NHL,NULL,C
+gretzwa01,"Second Team All-Star",1989,NHL,NULL,C
+gretzwa01,"Second Team All-Star",1993,NHL,NULL,C
+gretzwa01,"Second Team All-Star",1996,NHL,NULL,C
+gretzwa01,"Second Team All-Star",1997,NHL,NULL,C
+gueribi01,"Second Team All-Star",2001,NHL,NULL,RW
+guindbo01,"Playoff MVP",1977,WHA,NULL,NULL
+hadfivi01,"Second Team All-Star",1971,NHL,NULL,LW
+hainsge01,Vezina,1926,NHL,NULL,NULL
+hainsge01,Vezina,1927,NHL,NULL,NULL
+hainsge01,Vezina,1928,NHL,NULL,NULL
+halakja01,Jennings,2011,NHL,shared,NULL
+hallgl01,Calder,1955,NHL,NULL,NULL
+hallgl01,"Conn Smythe",1967,NHL,NULL,NULL
+hallgl01,"First Team All-Star",1956,NHL,NULL,G
+hallgl01,"First Team All-Star",1957,NHL,NULL,G
+hallgl01,"First Team All-Star",1959,NHL,NULL,G
+hallgl01,"First Team All-Star",1962,NHL,NULL,G
+hallgl01,"First Team All-Star",1963,NHL,NULL,G
+hallgl01,"First Team All-Star",1965,NHL,NULL,G
+hallgl01,"First Team All-Star",1968,NHL,NULL,G
+hallgl01,"Second Team All-Star",1955,NHL,NULL,G
+hallgl01,"Second Team All-Star",1960,NHL,NULL,G
+hallgl01,"Second Team All-Star",1961,NHL,NULL,G
+hallgl01,"Second Team All-Star",1966,NHL,NULL,G
+hallgl01,Vezina,1962,NHL,NULL,NULL
+hallgl01,Vezina,1966,NHL,shared,NULL
+hallgl01,Vezina,1968,NHL,shared,NULL
+hamilal01,"First Team All-Star",1977,WHA,NULL,D
+hamilal01,"Second Team All-Star",1973,WHA,NULL,D
+hampste01,Deneau,1972,WHA,"Most Gentlemanly",NULL
+hampste01,Masterton,1968,NHL,NULL,NULL
+harmogl01,"Second Team All-Star",1944,NHL,NULL,D
+harmogl01,"Second Team All-Star",1948,NHL,NULL,D
+harrite01,"Second Team All-Star",1968,NHL,NULL,D
+harvedo01,"First Team All-Star",1951,NHL,NULL,D
+harvedo01,"First Team All-Star",1952,NHL,NULL,D
+harvedo01,"First Team All-Star",1953,NHL,NULL,D
+harvedo01,"First Team All-Star",1954,NHL,NULL,D
+harvedo01,"First Team All-Star",1955,NHL,NULL,D
+harvedo01,"First Team All-Star",1956,NHL,NULL,D
+harvedo01,"First Team All-Star",1957,NHL,NULL,D
+harvedo01,"First Team All-Star",1959,NHL,NULL,D
+harvedo01,"First Team All-Star",1960,NHL,NULL,D
+harvedo01,"First Team All-Star",1961,NHL,NULL,D
+harvedo01,Norris,1954,NHL,NULL,NULL
+harvedo01,Norris,1955,NHL,NULL,NULL
+harvedo01,Norris,1956,NHL,NULL,NULL
+harvedo01,Norris,1957,NHL,NULL,NULL
+harvedo01,Norris,1959,NHL,NULL,NULL
+harvedo01,Norris,1960,NHL,NULL,NULL
+harvedo01,Norris,1961,NHL,NULL,NULL
+harvedo01,"Second Team All-Star",1958,NHL,NULL,D
+hasekdo01,All-Rookie,1991,NHL,NULL,G
+hasekdo01,"First Team All-Star",1993,NHL,NULL,G
+hasekdo01,"First Team All-Star",1994,NHL,NULL,G
+hasekdo01,"First Team All-Star",1996,NHL,NULL,G
+hasekdo01,"First Team All-Star",1997,NHL,NULL,G
+hasekdo01,"First Team All-Star",1998,NHL,NULL,G
+hasekdo01,"First Team All-Star",2000,NHL,NULL,G
+hasekdo01,Hart,1996,NHL,NULL,NULL
+hasekdo01,Hart,1997,NHL,NULL,NULL
+hasekdo01,Jennings,1993,NHL,shared,NULL
+hasekdo01,Jennings,2000,NHL,NULL,NULL
+hasekdo01,Jennings,2007,NHL,shared,NULL
+hasekdo01,Pearson,1996,NHL,NULL,NULL
+hasekdo01,Pearson,1997,NHL,NULL,NULL
+hasekdo01,Vezina,1993,NHL,NULL,NULL
+hasekdo01,Vezina,1994,NHL,NULL,NULL
+hasekdo01,Vezina,1996,NHL,NULL,NULL
+hasekdo01,Vezina,1997,NHL,NULL,NULL
+hasekdo01,Vezina,1998,NHL,NULL,NULL
+hasekdo01,Vezina,2000,NHL,NULL,NULL
+hatchde01,"Second Team All-Star",2002,NHL,NULL,D
+havlama01,All-Rookie,2000,NHL,NULL,F
+hawerda01,Calder,1981,NHL,NULL,NULL
+hawerda01,"Second Team All-Star",1984,NHL,NULL,C
+haybi01,Calder,1959,NHL,NULL,NULL
+haywabr01,Jennings,1986,NHL,shared,NULL
+haywabr01,Jennings,1987,NHL,shared,NULL
+haywabr01,Jennings,1988,NHL,shared,NULL
+heatlda01,All-Rookie,2001,NHL,NULL,F
+heatlda01,Calder,2001,NHL,NULL,NULL
+heatlda01,"First Team All-Star",2006,NHL,NULL,RW
+heatlda01,"Second Team All-Star",2005,NHL,NULL,LW
+hebenan01,"Lady Byng",1956,NHL,NULL,NULL
+hedbean01,"First Team All-Star",1975,WHA,NULL,RW
+hedbean01,"First Team All-Star",1976,WHA,NULL,RW
+hedbean01,"First Team All-Star",1977,WHA,NULL,RW
+hedbean01,Kaplan,1974,WHA,Rookie,NULL
+hedbean01,Masterton,1984,NHL,NULL,NULL
+hedbean01,"Second Team All-Star",1974,WHA,NULL,RW
+hejdumi01,All-Rookie,1998,NHL,NULL,F
+hejdumi01,Plus-Minus,2002,NHL,tie,NULL
+hejdumi01,Richard,2002,NHL,NULL,NULL
+hejdumi01,"Second Team All-Star",2002,NHL,NULL,RW
+helleot01,"Second Team All-Star",1940,NHL,NULL,D
+henriad01,All-Rookie,2011,NHL,NULL,F
+henryca01,Calder,1953,NHL,NULL,NULL
+henryca01,"Lady Byng",1957,NHL,NULL,NULL
+henryca01,"Second Team All-Star",1957,NHL,NULL,LW
+henryji01,"Second Team All-Star",1951,NHL,NULL,G
+herrode01,Jennings,1981,NHL,shared,NULL
+herrode01,Vezina,1980,NHL,shared,NULL
+hextabr01,"Art Ross",1941,NHL,NULL,NULL
+hextabr01,"First Team All-Star",1939,NHL,NULL,RW
+hextabr01,"First Team All-Star",1940,NHL,NULL,RW
+hextabr01,"First Team All-Star",1941,NHL,NULL,RW
+hextabr01,"Second Team All-Star",1942,NHL,NULL,RW
+hextaro01,All-Rookie,1986,NHL,NULL,G
+hextaro01,"Conn Smythe",1986,NHL,NULL,NULL
+hextaro01,"First Team All-Star",1986,NHL,NULL,G
+hextaro01,Vezina,1986,NHL,NULL,NULL
+hirscco01,All-Rookie,1995,NHL,NULL,G
+hodgech01,"Second Team All-Star",1963,NHL,NULL,G
+hodgech01,"Second Team All-Star",1964,NHL,NULL,G
+hodgech01,Vezina,1963,NHL,NULL,NULL
+hodgech01,Vezina,1965,NHL,shared,NULL
+hodgeke01,"First Team All-Star",1970,NHL,NULL,RW
+hodgeke01,"First Team All-Star",1973,NHL,NULL,RW
+hodgeke02,All-Rookie,1990,NHL,NULL,RW
+hoganda01,"Second Team All-Star",1976,WHA,NULL,D
+hollefl01,"First Team All-Star",1944,NHL,NULL,D
+hollefl01,"Second Team All-Star",1942,NHL,NULL,D
+hornula01,"Second Team All-Star",1972,WHA,NULL,D
+hortoti01,"First Team All-Star",1963,NHL,NULL,D
+hortoti01,"First Team All-Star",1967,NHL,NULL,D
+hortoti01,"First Team All-Star",1968,NHL,NULL,D
+hortoti01,"Second Team All-Star",1953,NHL,NULL,D
+hortoti01,"Second Team All-Star",1962,NHL,NULL,D
+hortoti01,"Second Team All-Star",1966,NHL,NULL,D
+horvabr01,"Second Team All-Star",1959,NHL,NULL,C
+hossama01,All-Rookie,1998,NHL,NULL,F
+hossama01,"Second Team All-Star",2008,NHL,NULL,RW
+houslph01,All-Rookie,1982,NHL,NULL,D
+houslph01,"Second Team All-Star",1991,NHL,NULL,D
+howarji01,All-Rookie,2009,NHL,NULL,G
+howego01,"Art Ross",1950,NHL,NULL,NULL
+howego01,"Art Ross",1951,NHL,NULL,NULL
+howego01,"Art Ross",1952,NHL,NULL,NULL
+howego01,"Art Ross",1953,NHL,NULL,NULL
+howego01,"Art Ross",1956,NHL,NULL,NULL
+howego01,"Art Ross",1962,NHL,NULL,NULL
+howego01,Davidson,1973,WHA,MVP,NULL
+howego01,"First Team All-Star",1950,NHL,NULL,RW
+howego01,"First Team All-Star",1951,NHL,NULL,RW
+howego01,"First Team All-Star",1952,NHL,NULL,RW
+howego01,"First Team All-Star",1953,NHL,NULL,RW
+howego01,"First Team All-Star",1956,NHL,NULL,RW
+howego01,"First Team All-Star",1957,NHL,NULL,RW
+howego01,"First Team All-Star",1959,NHL,NULL,RW
+howego01,"First Team All-Star",1962,NHL,NULL,RW
+howego01,"First Team All-Star",1965,NHL,NULL,RW
+howego01,"First Team All-Star",1967,NHL,NULL,RW
+howego01,"First Team All-Star",1968,NHL,NULL,RW
+howego01,"First Team All-Star",1969,NHL,NULL,RW
+howego01,"First Team All-Star",1973,WHA,NULL,RW
+howego01,"First Team All-Star",1974,WHA,NULL,RW
+howego01,Hart,1951,NHL,NULL,NULL
+howego01,Hart,1952,NHL,NULL,NULL
+howego01,Hart,1956,NHL,NULL,NULL
+howego01,Hart,1957,NHL,NULL,NULL
+howego01,Hart,1959,NHL,NULL,NULL
+howego01,Hart,1962,NHL,NULL,NULL
+howego01,"Second Team All-Star",1948,NHL,NULL,RW
+howego01,"Second Team All-Star",1949,NHL,NULL,RW
+howego01,"Second Team All-Star",1955,NHL,NULL,RW
+howego01,"Second Team All-Star",1958,NHL,NULL,RW
+howego01,"Second Team All-Star",1960,NHL,NULL,RW
+howego01,"Second Team All-Star",1961,NHL,NULL,RW
+howego01,"Second Team All-Star",1963,NHL,NULL,RW
+howego01,"Second Team All-Star",1964,NHL,NULL,RW
+howego01,"Second Team All-Star",1966,NHL,NULL,RW
+howelha01,"First Team All-Star",1966,NHL,NULL,D
+howelha01,Norris,1966,NHL,NULL,NULL
+howema01,"First Team All-Star",1978,WHA,NULL,LW
+howema01,"First Team All-Star",1982,NHL,NULL,D
+howema01,"First Team All-Star",1985,NHL,NULL,D
+howema01,"First Team All-Star",1986,NHL,NULL,D
+howema01,Kaplan,1973,WHA,Rookie,NULL
+howema01,Plus-Minus,1985,NHL,NULL,NULL
+howema01,"Second Team All-Star",1973,WHA,NULL,LW
+howesy01,"Second Team All-Star",1944,NHL,NULL,LW
+huddych01,Plus-Minus,1982,NHL,NULL,NULL
+huetcr01,Crozier,2005,NHL,NULL,NULL
+hullbo01,"Art Ross",1959,NHL,NULL,NULL
+hullbo01,"Art Ross",1961,NHL,NULL,NULL
+hullbo01,"Art Ross",1965,NHL,NULL,NULL
+hullbo01,Davidson,1972,WHA,MVP,NULL
+hullbo01,"First Team All-Star",1959,NHL,NULL,LW
+hullbo01,"First Team All-Star",1961,NHL,NULL,LW
+hullbo01,"First Team All-Star",1963,NHL,NULL,LW
+hullbo01,"First Team All-Star",1964,NHL,NULL,LW
+hullbo01,"First Team All-Star",1965,NHL,NULL,LW
+hullbo01,"First Team All-Star",1966,NHL,NULL,LW
+hullbo01,"First Team All-Star",1967,NHL,NULL,LW
+hullbo01,"First Team All-Star",1968,NHL,NULL,LW
+hullbo01,"First Team All-Star",1969,NHL,NULL,LW
+hullbo01,"First Team All-Star",1971,NHL,NULL,LW
+hullbo01,"First Team All-Star",1972,WHA,NULL,LW
+hullbo01,"First Team All-Star",1973,WHA,NULL,LW
+hullbo01,"First Team All-Star",1974,WHA,NULL,LW
+hullbo01,Hart,1964,NHL,NULL,NULL
+hullbo01,Hart,1965,NHL,NULL,NULL
+hullbo01,Howe,1974,WHA,MVP,NULL
+hullbo01,"Lady Byng",1964,NHL,NULL,NULL
+hullbo01,"Second Team All-Star",1962,NHL,NULL,LW
+hullbo01,"Second Team All-Star",1970,NHL,NULL,LW
+hullbo01,"Second Team All-Star",1975,WHA,NULL,LW
+hullbo01,"Second Team All-Star",1977,WHA,NULL,LW
+hullbr01,"First Team All-Star",1989,NHL,NULL,RW
+hullbr01,"First Team All-Star",1990,NHL,NULL,RW
+hullbr01,"First Team All-Star",1991,NHL,NULL,RW
+hullbr01,Hart,1990,NHL,NULL,NULL
+hullbr01,"Lady Byng",1989,NHL,NULL,NULL
+hullbr01,Pearson,1990,NHL,NULL,NULL
+hullde01,"Second Team All-Star",1972,NHL,NULL,LW
+huntetr01,All-Rookie,2003,NHL,NULL,F
+huselkr01,All-Rookie,2001,NHL,NULL,F
+iafraal01,"Second Team All-Star",1992,NHL,NULL,D
+iginlja01,All-Rookie,1996,NHL,NULL,F
+iginlja01,"Art Ross",2001,NHL,NULL,NULL
+iginlja01,"First Team All-Star",2001,NHL,NULL,RW
+iginlja01,"First Team All-Star",2007,NHL,NULL,RW
+iginlja01,"First Team All-Star",2008,NHL,NULL,RW
+iginlja01,"King Clancy",2003,NHL,NULL,NULL
+iginlja01,Messier,2008,NHL,NULL,NULL
+iginlja01,Pearson,2001,NHL,NULL,NULL
+iginlja01,Richard,2001,NHL,NULL,NULL
+iginlja01,Richard,2003,NHL,shared,NULL
+iginlja01,"Second Team All-Star",2003,NHL,NULL,RW
+jackmba01,All-Rookie,2002,NHL,NULL,D
+jackmba01,Calder,2002,NHL,NULL,NULL
+jacksbu01,"Art Ross",1931,NHL,NULL,NULL
+jacksbu01,"First Team All-Star",1931,NHL,NULL,LW
+jacksbu01,"First Team All-Star",1933,NHL,NULL,LW
+jacksbu01,"First Team All-Star",1934,NHL,NULL,LW
+jacksbu01,"First Team All-Star",1936,NHL,NULL,LW
+jacksbu01,"Second Team All-Star",1932,NHL,NULL,LW
+jagrja01,All-Rookie,1990,NHL,NULL,LW
+jagrja01,"Art Ross",1994,NHL,NULL,NULL
+jagrja01,"Art Ross",1997,NHL,NULL,NULL
+jagrja01,"Art Ross",1998,NHL,NULL,NULL
+jagrja01,"Art Ross",1999,NHL,NULL,NULL
+jagrja01,"Art Ross",2000,NHL,NULL,NULL
+jagrja01,"First Team All-Star",1994,NHL,NULL,RW
+jagrja01,"First Team All-Star",1995,NHL,NULL,RW
+jagrja01,"First Team All-Star",1997,NHL,NULL,RW
+jagrja01,"First Team All-Star",1998,NHL,NULL,RW
+jagrja01,"First Team All-Star",1999,NHL,NULL,RW
+jagrja01,"First Team All-Star",2000,NHL,NULL,RW
+jagrja01,"First Team All-Star",2005,NHL,NULL,RW
+jagrja01,Hart,1998,NHL,NULL,NULL
+jagrja01,Pearson,1998,NHL,NULL,NULL
+jagrja01,Pearson,1999,NHL,NULL,NULL
+jagrja01,Pearson,2005,NHL,NULL,NULL
+jagrja01,"Second Team All-Star",1996,NHL,NULL,RW
+jarrega01,"Second Team All-Star",1972,WHA,NULL,LW
+jarvido01,Masterton,1986,NHL,NULL,NULL
+jarvido01,Selke,1983,NHL,NULL,NULL
+jenseal01,Jennings,1983,NHL,shared,NULL
+jenseda02,Jennings,1985,NHL,shared,NULL
+johanca01,All-Rookie,1987,NHL,NULL,D
+johnsch01,"First Team All-Star",1931,NHL,NULL,D
+johnsch01,"First Team All-Star",1932,NHL,NULL,D
+johnsch01,"Second Team All-Star",1930,NHL,NULL,D
+johnsch01,"Second Team All-Star",1933,NHL,NULL,D
+johnsmi01,All-Rookie,1997,NHL,NULL,F
+johnsto01,"First Team All-Star",1958,NHL,NULL,D
+johnsto01,Norris,1958,NHL,NULL,NULL
+johnsto01,"Second Team All-Star",1955,NHL,NULL,D
+joliaau01,"First Team All-Star",1930,NHL,NULL,LW
+joliaau01,Hart,1933,NHL,NULL,NULL
+joliaau01,"Second Team All-Star",1931,NHL,NULL,LW
+joliaau01,"Second Team All-Star",1933,NHL,NULL,LW
+joliaau01,"Second Team All-Star",1934,NHL,NULL,LW
+jonsske01,All-Rookie,1994,NHL,NULL,D
+josepcu01,"King Clancy",1999,NHL,NULL,NULL
+jovaned01,All-Rookie,1995,NHL,NULL,D
+juneajo01,All-Rookie,1992,NHL,NULL,LW
+kanepa01,All-Rookie,2007,NHL,NULL,F
+kanepa01,Calder,2007,NHL,NULL,NULL
+kanepa01,"First Team All-Star",2009,NHL,NULL,RW
+karakmi01,Calder,1935,NHL,NULL,NULL
+karakmi01,"Second Team All-Star",1944,NHL,NULL,G
+kariypa01,All-Rookie,1994,NHL,NULL,F
+kariypa01,"First Team All-Star",1995,NHL,NULL,LW
+kariypa01,"First Team All-Star",1996,NHL,NULL,LW
+kariypa01,"First Team All-Star",1998,NHL,NULL,LW
+kariypa01,"Lady Byng",1995,NHL,NULL,NULL
+kariypa01,"Lady Byng",1996,NHL,NULL,NULL
+kariypa01,"Second Team All-Star",1999,NHL,NULL,LW
+kariypa01,"Second Team All-Star",2002,NHL,NULL,LW
+karlser01,"First Team All-Star",2011,NHL,NULL,D
+karlser01,Norris,2011,NHL,NULL,NULL
+kaspest01,Selke,1981,NHL,NULL,NULL
+kehoeri01,"Lady Byng",1980,NHL,NULL,NULL
+keithdu01,"First Team All-Star",2009,NHL,NULL,D
+keithdu01,Norris,2009,NHL,NULL,NULL
+kellyre01,"First Team All-Star",1950,NHL,NULL,D
+kellyre01,"First Team All-Star",1951,NHL,NULL,D
+kellyre01,"First Team All-Star",1952,NHL,NULL,D
+kellyre01,"First Team All-Star",1953,NHL,NULL,D
+kellyre01,"First Team All-Star",1954,NHL,NULL,D
+kellyre01,"First Team All-Star",1956,NHL,NULL,D
+kellyre01,"Lady Byng",1950,NHL,NULL,NULL
+kellyre01,"Lady Byng",1952,NHL,NULL,NULL
+kellyre01,"Lady Byng",1953,NHL,NULL,NULL
+kellyre01,"Lady Byng",1960,NHL,NULL,NULL
+kellyre01,Norris,1953,NHL,NULL,NULL
+kellyre01,"Second Team All-Star",1949,NHL,NULL,D
+kellyre01,"Second Team All-Star",1955,NHL,NULL,D
+kennete01,Hart,1954,NHL,NULL,NULL
+kennete01,"Second Team All-Star",1949,NHL,NULL,C
+kennete01,"Second Team All-Star",1950,NHL,tie,C
+kennete01,"Second Team All-Star",1953,NHL,NULL,C
+keonda01,Calder,1960,NHL,NULL,NULL
+keonda01,"Conn Smythe",1966,NHL,NULL,NULL
+keonda01,Deneau,1976,WHA,"Most Gentlemanly",NULL
+keonda01,Deneau,1977,WHA,"Most Gentlemanly",NULL
+keonda01,"Lady Byng",1961,NHL,NULL,NULL
+keonda01,"Lady Byng",1962,NHL,NULL,NULL
+keonda01,"Second Team All-Star",1961,NHL,NULL,C
+keonda01,"Second Team All-Star",1970,NHL,NULL,C
+kerrda01,"First Team All-Star",1939,NHL,NULL,G
+kerrda01,"Second Team All-Star",1937,NHL,NULL,G
+kerrda01,Vezina,1939,NHL,NULL,NULL
+kerrti01,Masterton,1988,NHL,NULL,NULL
+kerrti01,"Second Team All-Star",1986,NHL,NULL,RW
+keslery01,Selke,2010,NHL,NULL,NULL
+kesseph01,Masterton,2006,NHL,NULL,NULL
+kingkr01,"King Clancy",1995,NHL,NULL,NULL
+kiprumi01,"First Team All-Star",2005,NHL,NULL,G
+kiprumi01,Jennings,2005,NHL,NULL,NULL
+kiprumi01,Vezina,2005,NHL,NULL,NULL
+kleslro01,All-Rookie,2001,NHL,NULL,D
+kluzago01,Masterton,1989,NHL,NULL,NULL
+koivusa01,"King Clancy",2006,NHL,NULL,NULL
+koivusa01,Masterton,2001,NHL,NULL,NULL
+kolziol01,"First Team All-Star",1999,NHL,NULL,G
+kolziol01,"King Clancy",2005,NHL,NULL,NULL
+kolziol01,Vezina,1999,NHL,NULL,NULL
+konstvl01,All-Rookie,1991,NHL,NULL,D
+konstvl01,Plus-Minus,1995,NHL,NULL,NULL
+konstvl01,"Second Team All-Star",1995,NHL,NULL,D
+kovalal01,"Second Team All-Star",2007,NHL,NULL,RW
+kovalil01,All-Rookie,2001,NHL,NULL,F
+kovalil01,"First Team All-Star",2011,NHL,NULL,LW
+kovalil01,Richard,2003,NHL,shared,NULL
+kovalil01,"Second Team All-Star",2003,NHL,NULL,LW
+krejcda01,Plus-Minus,2008,NHL,NULL,NULL
+kurrija01,"First Team All-Star",1984,NHL,NULL,RW
+kurrija01,"First Team All-Star",1986,NHL,NULL,RW
+kurrija01,"Lady Byng",1984,NHL,NULL,NULL
+kurrija01,"Second Team All-Star",1983,NHL,NULL,RW
+kurrija01,"Second Team All-Star",1985,NHL,NULL,RW
+kurrija01,"Second Team All-Star",1988,NHL,NULL,RW
+lachel01,"Art Ross",1944,NHL,NULL,NULL
+lachel01,"Art Ross",1947,NHL,NULL,NULL
+lachel01,"First Team All-Star",1944,NHL,NULL,C
+lachel01,"First Team All-Star",1947,NHL,NULL,C
+lachel01,"First Team All-Star",1951,NHL,NULL,C
+lachel01,Hart,1944,NHL,NULL,NULL
+lachel01,"Second Team All-Star",1943,NHL,NULL,C
+lachel01,"Second Team All-Star",1945,NHL,NULL,C
+lacroan01,"First Team All-Star",1972,WHA,NULL,C
+lacroan01,"First Team All-Star",1973,WHA,NULL,C
+lacroan01,"First Team All-Star",1974,WHA,NULL,C
+lacroan01,Hunter,1972,WHA,Scoring,NULL
+lacroan01,Hunter,1974,WHA,Scoring,NULL
+laflegu01,"Art Ross",1975,NHL,NULL,NULL
+laflegu01,"Art Ross",1976,NHL,NULL,NULL
+laflegu01,"Art Ross",1977,NHL,NULL,NULL
+laflegu01,"Conn Smythe",1976,NHL,NULL,NULL
+laflegu01,"First Team All-Star",1974,NHL,NULL,RW
+laflegu01,"First Team All-Star",1975,NHL,NULL,RW
+laflegu01,"First Team All-Star",1976,NHL,NULL,RW
+laflegu01,"First Team All-Star",1977,NHL,NULL,RW
+laflegu01,"First Team All-Star",1978,NHL,NULL,RW
+laflegu01,"First Team All-Star",1979,NHL,NULL,RW
+laflegu01,Hart,1976,NHL,NULL,NULL
+laflegu01,Hart,1977,NHL,NULL,NULL
+laflegu01,Pearson,1975,NHL,NULL,NULL
+laflegu01,Pearson,1976,NHL,NULL,NULL
+laflegu01,Pearson,1977,NHL,NULL,NULL
+lafonpa01,Masterton,1994,NHL,NULL,NULL
+lafonpa01,"Second Team All-Star",1992,NHL,NULL,C
+lalimpa01,All-Rookie,1996,NHL,NULL,G
+lalonne01,"Art Ross",1920,NHL,NULL,NULL
+landega01,All-Rookie,2011,NHL,NULL,F
+landega01,Calder,2011,NHL,NULL,NULL
+langeda01,"Second Team All-Star",1978,WHA,NULL,D
+langwro01,"First Team All-Star",1982,NHL,NULL,D
+langwro01,"First Team All-Star",1983,NHL,NULL,D
+langwro01,Norris,1982,NHL,NULL,NULL
+langwro01,Norris,1983,NHL,NULL,NULL
+langwro01,"Second Team All-Star",1984,NHL,NULL,D
+laperia01,Masterton,2010,NHL,NULL,NULL
+laperja01,Calder,1963,NHL,NULL,NULL
+laperja01,"First Team All-Star",1964,NHL,NULL,D
+laperja01,"First Team All-Star",1965,NHL,NULL,D
+laperja01,Norris,1965,NHL,NULL,NULL
+laperja01,"Second Team All-Star",1963,NHL,NULL,D
+laperja01,"Second Team All-Star",1969,NHL,NULL,D
+lapoigu01,"First Team All-Star",1972,NHL,NULL,D
+lapoigu01,"Second Team All-Star",1974,NHL,NULL,D
+lapoigu01,"Second Team All-Star",1975,NHL,NULL,D
+lapoigu01,"Second Team All-Star",1976,NHL,NULL,D
+lapraed01,Calder,1945,NHL,NULL,NULL
+lapraed01,"Lady Byng",1949,NHL,NULL,NULL
+larmest01,All-Rookie,1982,NHL,NULL,RW
+larmest01,Calder,1982,NHL,NULL,NULL
+larocmi01,Vezina,1976,NHL,shared,NULL
+larocmi01,Vezina,1977,NHL,shared,NULL
+larocmi01,Vezina,1978,NHL,shared,NULL
+larocmi01,Vezina,1980,NHL,shared,NULL
+lawsoda01,"First Team All-Star",1972,WHA,NULL,RW
+leachre01,"Conn Smythe",1975,NHL,NULL,NULL
+leachre01,"Second Team All-Star",1975,NHL,NULL,RW
+lecavvi01,"King Clancy",2007,NHL,NULL,NULL
+lecavvi01,Richard,2006,NHL,NULL,NULL
+lecavvi01,"Second Team All-Star",2006,NHL,NULL,C
+leclajo01,"First Team All-Star",1994,NHL,NULL,LW
+leclajo01,"First Team All-Star",1997,NHL,NULL,LW
+leclajo01,Plus-Minus,1996,NHL,NULL,NULL
+leclajo01,Plus-Minus,1998,NHL,NULL,NULL
+leclajo01,"Second Team All-Star",1995,NHL,NULL,LW
+leclajo01,"Second Team All-Star",1996,NHL,NULL,LW
+leclajo01,"Second Team All-Star",1998,NHL,NULL,LW
+leducri01,"Second Team All-Star",1976,WHA,NULL,C
+leetcbr01,All-Rookie,1988,NHL,NULL,D
+leetcbr01,Calder,1988,NHL,NULL,NULL
+leetcbr01,"Conn Smythe",1993,NHL,NULL,NULL
+leetcbr01,"First Team All-Star",1991,NHL,NULL,D
+leetcbr01,"First Team All-Star",1996,NHL,NULL,D
+leetcbr01,Norris,1991,NHL,NULL,NULL
+leetcbr01,Norris,1996,NHL,NULL,NULL
+leetcbr01,"Second Team All-Star",1990,NHL,NULL,D
+leetcbr01,"Second Team All-Star",1993,NHL,NULL,D
+leetcbr01,"Second Team All-Star",1995,NHL,NULL,D
+lehtije01,Selke,1997,NHL,NULL,NULL
+lehtije01,Selke,1998,NHL,NULL,NULL
+lehtije01,Selke,2002,NHL,NULL,NULL
+lemelre01,Jennings,1989,NHL,shared,NULL
+lemiecl01,"Conn Smythe",1994,NHL,NULL,NULL
+lemiema01,All-Rookie,1984,NHL,NULL,C
+lemiema01,"Art Ross",1987,NHL,NULL,NULL
+lemiema01,"Art Ross",1988,NHL,NULL,NULL
+lemiema01,"Art Ross",1991,NHL,NULL,NULL
+lemiema01,"Art Ross",1992,NHL,NULL,NULL
+lemiema01,"Art Ross",1995,NHL,NULL,NULL
+lemiema01,"Art Ross",1996,NHL,NULL,NULL
+lemiema01,Calder,1984,NHL,NULL,NULL
+lemiema01,"Conn Smythe",1990,NHL,NULL,NULL
+lemiema01,"Conn Smythe",1991,NHL,NULL,NULL
+lemiema01,"First Team All-Star",1987,NHL,NULL,C
+lemiema01,"First Team All-Star",1988,NHL,NULL,C
+lemiema01,"First Team All-Star",1992,NHL,NULL,C
+lemiema01,"First Team All-Star",1995,NHL,NULL,C
+lemiema01,"First Team All-Star",1996,NHL,NULL,C
+lemiema01,Hart,1987,NHL,NULL,NULL
+lemiema01,Hart,1992,NHL,NULL,NULL
+lemiema01,Hart,1995,NHL,NULL,NULL
+lemiema01,Masterton,1992,NHL,NULL,NULL
+lemiema01,Pearson,1985,NHL,NULL,NULL
+lemiema01,Pearson,1987,NHL,NULL,NULL
+lemiema01,Pearson,1992,NHL,NULL,NULL
+lemiema01,Pearson,1995,NHL,NULL,NULL
+lemiema01,Plus-Minus,1992,NHL,NULL,NULL
+lemiema01,"Second Team All-Star",1985,NHL,NULL,C
+lemiema01,"Second Team All-Star",1986,NHL,NULL,C
+lemiema01,"Second Team All-Star",1991,NHL,NULL,C
+lemiema01,"Second Team All-Star",2000,NHL,NULL,C
+lessama01,"Second Team All-Star",1980,NHL,NULL,G
+leswito01,"Second Team All-Star",1949,NHL,NULL,LW
+lewicda01,"Second Team All-Star",1954,NHL,NULL,LW
+leyri01,"First Team All-Star",1978,WHA,NULL,D
+leyri01,Murphy,1978,WHA,"Best Defenceman",NULL
+leyri01,"Second Team All-Star",1977,WHA,NULL,D
+lidstni01,All-Rookie,1991,NHL,NULL,D
+lidstni01,"Conn Smythe",2001,NHL,NULL,NULL
+lidstni01,"First Team All-Star",1997,NHL,NULL,D
+lidstni01,"First Team All-Star",1998,NHL,NULL,D
+lidstni01,"First Team All-Star",1999,NHL,NULL,D
+lidstni01,"First Team All-Star",2000,NHL,NULL,D
+lidstni01,"First Team All-Star",2001,NHL,NULL,D
+lidstni01,"First Team All-Star",2002,NHL,NULL,D
+lidstni01,"First Team All-Star",2005,NHL,NULL,D
+lidstni01,"First Team All-Star",2006,NHL,NULL,D
+lidstni01,"First Team All-Star",2007,NHL,NULL,D
+lidstni01,"First Team All-Star",2010,NHL,NULL,D
+lidstni01,Norris,2000,NHL,NULL,NULL
+lidstni01,Norris,2001,NHL,NULL,NULL
+lidstni01,Norris,2002,NHL,NULL,NULL
+lidstni01,Norris,2005,NHL,NULL,NULL
+lidstni01,Norris,2006,NHL,NULL,NULL
+lidstni01,Norris,2007,NHL,NULL,NULL
+lidstni01,Norris,2010,NHL,NULL,NULL
+lidstni01,"Second Team All-Star",2008,NHL,NULL,D
+lidstni01,"Second Team All-Star",2009,NHL,NULL,D
+lilesjo01,All-Rookie,2003,NHL,NULL,D
+lindbpe01,All-Rookie,1982,NHL,NULL,G
+lindbpe01,"First Team All-Star",1984,NHL,NULL,G
+lindbpe01,Vezina,1984,NHL,NULL,NULL
+lindetr01,All-Rookie,1988,NHL,NULL,C
+lindetr01,"King Clancy",1996,NHL,NULL,NULL
+lindrer01,All-Rookie,1992,NHL,NULL,C
+lindrer01,"First Team All-Star",1994,NHL,NULL,C
+lindrer01,Hart,1994,NHL,NULL,NULL
+lindrer01,Pearson,1994,NHL,NULL,NULL
+lindrer01,"Second Team All-Star",1995,NHL,NULL,C
+lindste01,"Art Ross",1949,NHL,NULL,NULL
+lindste01,"First Team All-Star",1947,NHL,NULL,LW
+lindste01,"First Team All-Star",1949,NHL,NULL,LW
+lindste01,"First Team All-Star",1950,NHL,NULL,LW
+lindste01,"First Team All-Star",1951,NHL,NULL,LW
+lindste01,"First Team All-Star",1952,NHL,NULL,LW
+lindste01,"First Team All-Star",1953,NHL,NULL,LW
+lindste01,"First Team All-Star",1955,NHL,NULL,LW
+lindste01,"First Team All-Star",1956,NHL,NULL,LW
+lindste01,"Second Team All-Star",1948,NHL,NULL,LW
+litzeed01,Calder,1954,NHL,NULL,NULL
+litzeed01,"Second Team All-Star",1956,NHL,NULL,C
+liutmi01,"First Team All-Star",1980,NHL,NULL,G
+liutmi01,Pearson,1980,NHL,NULL,NULL
+liutmi01,"Second Team All-Star",1986,NHL,NULL,G
+longba01,"Second Team All-Star",1974,WHA,NULL,D
+longba01,"Second Team All-Star",1977,WHA,NULL,D
+loobha01,All-Rookie,1983,NHL,NULL,RW
+loobha01,"First Team All-Star",1987,NHL,NULL,RW
+loweke01,"King Clancy",1989,NHL,NULL,NULL
+lucedo01,Masterton,1974,NHL,NULL,NULL
+lukowmo01,"Second Team All-Star",1978,WHA,NULL,LW
+lumleha01,"First Team All-Star",1953,NHL,NULL,G
+lumleha01,"First Team All-Star",1954,NHL,NULL,G
+lumleha01,Vezina,1953,NHL,NULL,NULL
+lundpe01,Calder,1948,NHL,NULL,NULL
+lundqhe01,All-Rookie,2005,NHL,NULL,G
+lundqhe01,"First Team All-Star",2011,NHL,NULL,G
+lundqhe01,Vezina,2011,NHL,NULL,NULL
+luongro01,Jennings,2010,NHL,shared,NULL
+luongro01,"Second Team All-Star",2003,NHL,NULL,G
+luongro01,"Second Team All-Star",2006,NHL,NULL,G
+lylege01,Kaplan,1976,WHA,Rookie,NULL
+macadal01,Masterton,1979,NHL,NULL,NULL
+macdobl01,"Second Team All-Star",1978,WHA,NULL,RW
+macdoki01,Calder,1939,NHL,NULL,NULL
+macdolo01,Masterton,1972,NHL,NULL,NULL
+macinal01,"Conn Smythe",1988,NHL,NULL,NULL
+macinal01,"First Team All-Star",1989,NHL,NULL,D
+macinal01,"First Team All-Star",1990,NHL,NULL,D
+macinal01,"First Team All-Star",1998,NHL,NULL,D
+macinal01,"First Team All-Star",2002,NHL,NULL,D
+macinal01,Norris,1998,NHL,NULL,NULL
+macinal01,"Second Team All-Star",1986,NHL,NULL,D
+macinal01,"Second Team All-Star",1988,NHL,NULL,D
+macinal01,"Second Team All-Star",1993,NHL,NULL,D
+mackefl01,"First Team All-Star",1952,NHL,NULL,C
+macmibo01,"Lady Byng",1978,NHL,NULL,NULL
+macouja01,All-Rookie,1983,NHL,NULL,D
+maddejo01,Selke,2000,NHL,NULL,NULL
+mahovfr01,Calder,1957,NHL,NULL,NULL
+mahovfr01,"First Team All-Star",1960,NHL,NULL,LW
+mahovfr01,"First Team All-Star",1962,NHL,NULL,LW
+mahovfr01,"First Team All-Star",1972,NHL,NULL,LW
+mahovfr01,"Second Team All-Star",1961,NHL,NULL,LW
+mahovfr01,"Second Team All-Star",1963,NHL,NULL,LW
+mahovfr01,"Second Team All-Star",1964,NHL,NULL,LW
+mahovfr01,"Second Team All-Star",1965,NHL,NULL,LW
+mahovfr01,"Second Team All-Star",1968,NHL,NULL,LW
+mahovfr01,"Second Team All-Star",1969,NHL,NULL,LW
+makarse01,All-Rookie,1989,NHL,NULL,RW
+makarse01,Calder,1989,NHL,NULL,NULL
+malakvl01,All-Rookie,1992,NHL,NULL,D
+malikma01,Plus-Minus,2003,NHL,tie,NULL
+malkiev01,All-Rookie,2006,NHL,NULL,F
+malkiev01,"Art Ross",2008,NHL,NULL,NULL
+malkiev01,"Art Ross",2011,NHL,NULL,NULL
+malkiev01,Calder,2006,NHL,NULL,NULL
+malkiev01,"Conn Smythe",2008,NHL,NULL,NULL
+malkiev01,"First Team All-Star",2007,NHL,NULL,C
+malkiev01,"First Team All-Star",2008,NHL,NULL,C
+malkiev01,"First Team All-Star",2011,NHL,NULL,C
+malkiev01,Hart,2011,NHL,NULL,NULL
+malkiev01,Lindsay,2011,NHL,NULL,NULL
+malonjo01,"Art Ross",1917,NHL,NULL,NULL
+malonjo01,"Art Ross",1919,NHL,NULL,NULL
+malonry01,All-Rookie,2003,NHL,NULL,F
+manthsy01,"Second Team All-Star",1930,NHL,NULL,D
+manthsy01,"Second Team All-Star",1931,NHL,NULL,D
+marshdo01,"Second Team All-Star",1966,NHL,NULL,LW
+martipi01,Masterton,1969,NHL,NULL,NULL
+martiri01,"First Team All-Star",1973,NHL,NULL,LW
+martiri01,"First Team All-Star",1974,NHL,NULL,LW
+martiri01,"Second Team All-Star",1975,NHL,NULL,LW
+martiri01,"Second Team All-Star",1976,NHL,NULL,LW
+masonst01,All-Rookie,2008,NHL,NULL,G
+masonst01,Calder,2008,NHL,NULL,NULL
+masonst01,"Second Team All-Star",2008,NHL,NULL,G
+mccabbr01,"Second Team All-Star",2003,NHL,NULL,D
+mccoofr01,Calder,1944,NHL,NULL,NULL
+mccribr01,Plus-Minus,1987,NHL,NULL,NULL
+mccribr01,"Second Team All-Star",1987,NHL,NULL,D
+mcdonbu01,"Second Team All-Star",1941,NHL,NULL,D
+mcdonla01,"King Clancy",1987,NHL,NULL,NULL
+mcdonla01,Masterton,1982,NHL,NULL,NULL
+mcdonla01,"Second Team All-Star",1976,NHL,NULL,RW
+mcdonla01,"Second Team All-Star",1982,NHL,NULL,RW
+mcfadji01,Calder,1947,NHL,NULL,NULL
+mckendo01,"Lady Byng",1959,NHL,NULL,NULL
+mckenjo01,"Second Team All-Star",1969,NHL,NULL,RW
+mclarky01,All-Rookie,1995,NHL,NULL,D
+mcleaki01,"Second Team All-Star",1991,NHL,NULL,G
+mclenja01,Masterton,1997,NHL,NULL,NULL
+mcleodo01,"First Team All-Star",1973,WHA,NULL,G
+mcleodo01,Hatskin,1973,WHA,"Best Goaltender",NULL
+mcneige01,"Second Team All-Star",1952,NHL,NULL,G
+mcsorma01,Plus-Minus,1990,NHL,tie,NULL
+meaghri01,Selke,1989,NHL,NULL,NULL
+meekeho01,Calder,1946,NHL,NULL,NULL
+melanro01,Jennings,1982,NHL,shared,NULL
+melanro01,"Second Team All-Star",1982,NHL,NULL,G
+messima01,"Conn Smythe",1983,NHL,NULL,NULL
+messima01,"First Team All-Star",1981,NHL,NULL,LW
+messima01,"First Team All-Star",1982,NHL,NULL,LW
+messima01,"First Team All-Star",1989,NHL,NULL,C
+messima01,"First Team All-Star",1991,NHL,NULL,C
+messima01,Hart,1989,NHL,NULL,NULL
+messima01,Hart,1991,NHL,NULL,NULL
+messima01,Pearson,1989,NHL,NULL,NULL
+messima01,Pearson,1991,NHL,NULL,NULL
+messima01,"Second Team All-Star",1983,NHL,NULL,LW
+meszaan01,All-Rookie,2005,NHL,NULL,D
+middlri01,"Lady Byng",1981,NHL,NULL,NULL
+middlri01,"Second Team All-Star",1981,NHL,NULL,RW
+mikitst01,"Art Ross",1963,NHL,NULL,NULL
+mikitst01,"Art Ross",1964,NHL,NULL,NULL
+mikitst01,"Art Ross",1966,NHL,NULL,NULL
+mikitst01,"Art Ross",1967,NHL,NULL,NULL
+mikitst01,"First Team All-Star",1961,NHL,NULL,C
+mikitst01,"First Team All-Star",1962,NHL,NULL,C
+mikitst01,"First Team All-Star",1963,NHL,NULL,C
+mikitst01,"First Team All-Star",1965,NHL,NULL,C
+mikitst01,"First Team All-Star",1966,NHL,NULL,C
+mikitst01,"First Team All-Star",1967,NHL,NULL,C
+mikitst01,Hart,1966,NHL,NULL,NULL
+mikitst01,Hart,1967,NHL,NULL,NULL
+mikitst01,"Lady Byng",1966,NHL,NULL,NULL
+mikitst01,"Lady Byng",1967,NHL,NULL,NULL
+mikitst01,"Second Team All-Star",1964,NHL,NULL,C
+mikitst01,"Second Team All-Star",1969,NHL,NULL,C
+millery01,"First Team All-Star",2009,NHL,NULL,G
+millery01,Vezina,2009,NHL,NULL,NULL
+mironbo01,All-Rookie,1993,NHL,NULL,D
+modanmi01,All-Rookie,1989,NHL,NULL,C
+modanmi01,"Second Team All-Star",1999,NHL,NULL,C
+mogilal01,"Lady Byng",2002,NHL,NULL,NULL
+mogilal01,"Second Team All-Star",1992,NHL,NULL,RW
+mogilal01,"Second Team All-Star",1995,NHL,NULL,RW
+moogan01,Jennings,1989,NHL,shared,NULL
+mooredi01,"Art Ross",1957,NHL,NULL,NULL
+mooredi01,"Art Ross",1958,NHL,NULL,NULL
+mooredi01,"First Team All-Star",1957,NHL,NULL,LW
+mooredi01,"First Team All-Star",1958,NHL,NULL,LW
+mooredi01,"Second Team All-Star",1960,NHL,NULL,LW
+moreaet01,"King Clancy",2008,NHL,NULL,NULL
+morenho01,"Art Ross",1927,NHL,NULL,NULL
+morenho01,"Art Ross",1930,NHL,NULL,NULL
+morenho01,"First Team All-Star",1930,NHL,NULL,C
+morenho01,"First Team All-Star",1931,NHL,NULL,C
+morenho01,Hart,1927,NHL,NULL,NULL
+morenho01,Hart,1930,NHL,NULL,NULL
+morenho01,Hart,1931,NHL,NULL,NULL
+morenho01,"Second Team All-Star",1932,NHL,NULL,C
+morride01,All-Rookie,1997,NHL,NULL,D
+morrike01,"First Team All-Star",1974,WHA,NULL,D
+morrike01,"Second Team All-Star",1975,WHA,NULL,D
+mortsgu01,"First Team All-Star",1949,NHL,NULL,D
+mosdeke01,"First Team All-Star",1953,NHL,NULL,C
+mosdeke01,"Second Team All-Star",1954,NHL,NULL,C
+mosiebi01,"Lady Byng",1944,NHL,NULL,NULL
+mosiebi01,"Second Team All-Star",1944,NHL,NULL,RW
+mosiebi01,"Second Team All-Star",1945,NHL,NULL,RW
+mowerjo01,"First Team All-Star",1942,NHL,NULL,G
+mowerjo01,Vezina,1942,NHL,NULL,NULL
+mullejo01,"First Team All-Star",1988,NHL,NULL,RW
+mullejo01,"Lady Byng",1986,NHL,NULL,NULL
+mullejo01,"Lady Byng",1988,NHL,NULL,NULL
+mullejo01,Plus-Minus,1988,NHL,NULL,NULL
+murphla01,"Second Team All-Star",1986,NHL,NULL,D
+murphla01,"Second Team All-Star",1992,NHL,NULL,D
+murphla01,"Second Team All-Star",1994,NHL,NULL,D
+murratr01,Selke,1985,NHL,NULL,NULL
+murzyda01,All-Rookie,1985,NHL,NULL,D
+myersty01,All-Rookie,2009,NHL,NULL,D
+myersty01,Calder,2009,NHL,NULL,NULL
+nabokev01,All-Rookie,2000,NHL,NULL,G
+nabokev01,Calder,2000,NHL,NULL,NULL
+nabokev01,"First Team All-Star",2007,NHL,NULL,G
+napiema01,Kaplan,1975,WHA,Rookie,NULL
+nashri01,All-Rookie,2002,NHL,NULL,F
+nashri01,Richard,2003,NHL,shared,NULL
+nasluma01,All-Rookie,1982,NHL,NULL,LW
+nasluma01,"Lady Byng",1987,NHL,NULL,NULL
+nasluma01,"Second Team All-Star",1985,NHL,NULL,LW
+nasluma02,"First Team All-Star",2001,NHL,NULL,LW
+nasluma02,"First Team All-Star",2002,NHL,NULL,LW
+nasluma02,"First Team All-Star",2003,NHL,NULL,LW
+nasluma02,Pearson,2002,NHL,NULL,NULL
+nealja01,"First Team All-Star",2011,NHL,NULL,RW
+nedomva01,Deneau,1975,WHA,"Most Gentlemanly",NULL
+neelyca01,Masterton,1993,NHL,NULL,NULL
+neelyca01,"Second Team All-Star",1987,NHL,NULL,RW
+neelyca01,"Second Team All-Star",1989,NHL,NULL,RW
+neelyca01,"Second Team All-Star",1990,NHL,NULL,RW
+neelyca01,"Second Team All-Star",1993,NHL,NULL,RW
+neilsji01,"Second Team All-Star",1967,NHL,NULL,D
+niedesc01,All-Rookie,1992,NHL,NULL,D
+niedesc01,"Conn Smythe",2006,NHL,NULL,NULL
+niedesc01,"First Team All-Star",2003,NHL,NULL,D
+niedesc01,"First Team All-Star",2005,NHL,NULL,D
+niedesc01,"First Team All-Star",2006,NHL,NULL,D
+niedesc01,Norris,2003,NHL,NULL,NULL
+niedesc01,"Second Team All-Star",1997,NHL,NULL,D
+nieuwjo01,All-Rookie,1987,NHL,NULL,C
+nieuwjo01,Calder,1987,NHL,NULL,NULL
+nieuwjo01,"Conn Smythe",1998,NHL,NULL,NULL
+nieuwjo01,"King Clancy",1994,NHL,NULL,NULL
+nighbfr01,Hart,1923,NHL,NULL,NULL
+nighbfr01,"Lady Byng",1924,NHL,NULL,NULL
+nighbfr01,"Lady Byng",1925,NHL,NULL,NULL
+niinija01,All-Rookie,1996,NHL,NULL,D
+nilsske01,Deneau,1978,WHA,"Most Gentlemanly",NULL
+nilsske01,Kaplan,1977,WHA,Rookie,NULL
+nilssul01,"First Team All-Star",1975,WHA,NULL,C
+nilssul01,"First Team All-Star",1977,WHA,NULL,C
+nilssul01,"Playoff MVP",1975,WHA,NULL,NULL
+northba01,"First Team All-Star",1932,NHL,NULL,LW
+nugenry01,All-Rookie,2011,NHL,NULL,F
+oatesad01,"Second Team All-Star",1990,NHL,NULL,C
+oconnbu01,Hart,1947,NHL,NULL,NULL
+oconnbu01,"Lady Byng",1947,NHL,NULL,NULL
+oconnbu01,"Second Team All-Star",1947,NHL,NULL,C
+ogrodjo01,"First Team All-Star",1984,NHL,NULL,LW
+ohlunma01,All-Rookie,1997,NHL,NULL,D
+olmstbe01,"Second Team All-Star",1952,NHL,NULL,LW
+olmstbe01,"Second Team All-Star",1955,NHL,NULL,LW
+orrbo01,"Art Ross",1969,NHL,NULL,NULL
+orrbo01,"Art Ross",1974,NHL,NULL,NULL
+orrbo01,Calder,1966,NHL,NULL,NULL
+orrbo01,"Conn Smythe",1969,NHL,NULL,NULL
+orrbo01,"Conn Smythe",1971,NHL,NULL,NULL
+orrbo01,"First Team All-Star",1967,NHL,NULL,D
+orrbo01,"First Team All-Star",1968,NHL,NULL,D
+orrbo01,"First Team All-Star",1969,NHL,NULL,D
+orrbo01,"First Team All-Star",1970,NHL,NULL,D
+orrbo01,"First Team All-Star",1971,NHL,NULL,D
+orrbo01,"First Team All-Star",1972,NHL,NULL,D
+orrbo01,"First Team All-Star",1973,NHL,NULL,D
+orrbo01,"First Team All-Star",1974,NHL,NULL,D
+orrbo01,Hart,1969,NHL,NULL,NULL
+orrbo01,Hart,1970,NHL,NULL,NULL
+orrbo01,Hart,1971,NHL,NULL,NULL
+orrbo01,Norris,1967,NHL,NULL,NULL
+orrbo01,Norris,1968,NHL,NULL,NULL
+orrbo01,Norris,1969,NHL,NULL,NULL
+orrbo01,Norris,1970,NHL,NULL,NULL
+orrbo01,Norris,1971,NHL,NULL,NULL
+orrbo01,Norris,1972,NHL,NULL,NULL
+orrbo01,Norris,1973,NHL,NULL,NULL
+orrbo01,Norris,1974,NHL,NULL,NULL
+orrbo01,Pearson,1974,NHL,NULL,NULL
+orrbo01,"Second Team All-Star",1966,NHL,NULL,D
+osgooch01,Jennings,1995,NHL,shared,NULL
+osgooch01,Jennings,2007,NHL,shared,NULL
+osgooch01,"Second Team All-Star",1995,NHL,NULL,G
+ovechal01,All-Rookie,2005,NHL,NULL,F
+ovechal01,"Art Ross",2007,NHL,NULL,NULL
+ovechal01,Calder,2005,NHL,NULL,NULL
+ovechal01,"First Team All-Star",2005,NHL,NULL,LW
+ovechal01,"First Team All-Star",2006,NHL,NULL,LW
+ovechal01,"First Team All-Star",2007,NHL,NULL,LW
+ovechal01,"First Team All-Star",2008,NHL,NULL,LW
+ovechal01,"First Team All-Star",2009,NHL,NULL,LW
+ovechal01,Hart,2007,NHL,NULL,NULL
+ovechal01,Hart,2008,NHL,NULL,NULL
+ovechal01,Lindsay,2009,NHL,NULL,NULL
+ovechal01,Pearson,2007,NHL,NULL,NULL
+ovechal01,Pearson,2008,NHL,NULL,NULL
+ovechal01,Richard,2007,NHL,NULL,NULL
+ovechal01,Richard,2008,NHL,NULL,NULL
+ovechal01,"Second Team All-Star",2010,NHL,NULL,LW
+ozolisa01,"First Team All-Star",1996,NHL,NULL,D
+pacioma01,Masterton,2011,NHL,NULL,NULL
+pangda01,All-Rookie,1987,NHL,NULL,G
+parenbe01,"Conn Smythe",1973,NHL,NULL,NULL
+parenbe01,"Conn Smythe",1974,NHL,NULL,NULL
+parenbe01,"First Team All-Star",1973,NHL,NULL,G
+parenbe01,"First Team All-Star",1974,NHL,NULL,G
+parenbe01,"Second Team All-Star",1972,WHA,NULL,G
+parenbe01,Vezina,1973,NHL,tie,NULL
+parenbe01,Vezina,1974,NHL,NULL,NULL
+parisza01,"Second Team All-Star",2008,NHL,NULL,LW
+parkbr01,"First Team All-Star",1969,NHL,NULL,D
+parkbr01,"First Team All-Star",1971,NHL,NULL,D
+parkbr01,"First Team All-Star",1973,NHL,NULL,D
+parkbr01,"First Team All-Star",1975,NHL,NULL,D
+parkbr01,"First Team All-Star",1977,NHL,NULL,D
+parkbr01,Masterton,1983,NHL,NULL,NULL
+parkbr01,"Second Team All-Star",1970,NHL,NULL,D
+parkbr01,"Second Team All-Star",1972,NHL,NULL,D
+patrily01,"First Team All-Star",1941,NHL,NULL,LW
+patrily01,"Second Team All-Star",1942,NHL,NULL,LW
+pecami01,Selke,1996,NHL,NULL,NULL
+pecami01,Selke,2001,NHL,NULL,NULL
+peetepe01,"First Team All-Star",1982,NHL,NULL,G
+peetepe01,Vezina,1982,NHL,NULL,NULL
+pennest01,All-Rookie,1984,NHL,NULL,G
+perregi01,Calder,1970,NHL,NULL,NULL
+perregi01,"Lady Byng",1972,NHL,NULL,NULL
+perregi01,"Second Team All-Star",1975,NHL,NULL,C
+perregi01,"Second Team All-Star",1976,NHL,NULL,C
+perryco01,"First Team All-Star",2010,NHL,NULL,RW
+perryco01,Hart,2010,NHL,NULL,NULL
+perryco01,Richard,2010,NHL,NULL,NULL
+petrool01,All-Rookie,1993,NHL,NULL,W
+phanedi01,All-Rookie,2005,NHL,NULL,D
+phanedi01,"First Team All-Star",2007,NHL,NULL,D
+pietral01,"Second Team All-Star",2011,NHL,NULL,D
+pilotpi01,"First Team All-Star",1962,NHL,NULL,D
+pilotpi01,"First Team All-Star",1963,NHL,NULL,D
+pilotpi01,"First Team All-Star",1964,NHL,NULL,D
+pilotpi01,"First Team All-Star",1965,NHL,NULL,D
+pilotpi01,"First Team All-Star",1966,NHL,NULL,D
+pilotpi01,Norris,1962,NHL,NULL,NULL
+pilotpi01,Norris,1963,NHL,NULL,NULL
+pilotpi01,Norris,1964,NHL,NULL,NULL
+pilotpi01,"Second Team All-Star",1959,NHL,NULL,D
+pilotpi01,"Second Team All-Star",1960,NHL,NULL,D
+pilotpi01,"Second Team All-Star",1961,NHL,NULL,D
+pitkajo01,All-Rookie,2003,NHL,NULL,D
+plantja01,"First Team All-Star",1955,NHL,NULL,G
+plantja01,"First Team All-Star",1958,NHL,NULL,G
+plantja01,"First Team All-Star",1961,NHL,NULL,G
+plantja01,Hart,1961,NHL,NULL,NULL
+plantja01,"Second Team All-Star",1956,NHL,NULL,G
+plantja01,"Second Team All-Star",1957,NHL,NULL,G
+plantja01,"Second Team All-Star",1959,NHL,NULL,G
+plantja01,"Second Team All-Star",1970,NHL,NULL,G
+plantja01,Vezina,1955,NHL,NULL,NULL
+plantja01,Vezina,1956,NHL,NULL,NULL
+plantja01,Vezina,1957,NHL,NULL,NULL
+plantja01,Vezina,1958,NHL,NULL,NULL
+plantja01,Vezina,1959,NHL,NULL,NULL
+plantja01,Vezina,1961,NHL,NULL,NULL
+plantja01,Vezina,1968,NHL,shared,NULL
+plettwi01,Calder,1976,NHL,NULL,NULL
+plumbro01,"First Team All-Star",1976,WHA,NULL,D
+plumbro01,Murphy,1976,WHA,"Best Defenceman",NULL
+podeish01,"King Clancy",2000,NHL,NULL,NULL
+poilebu01,"Second Team All-Star",1947,NHL,NULL,RW
+popiepo01,"First Team All-Star",1976,WHA,NULL,D
+popiepo01,"Second Team All-Star",1974,WHA,NULL,D
+potito01,All-Rookie,1998,NHL,NULL,D
+potvide01,Calder,1973,NHL,NULL,NULL
+potvide01,"First Team All-Star",1974,NHL,NULL,D
+potvide01,"First Team All-Star",1975,NHL,NULL,D
+potvide01,"First Team All-Star",1977,NHL,NULL,D
+potvide01,"First Team All-Star",1978,NHL,NULL,D
+potvide01,"First Team All-Star",1980,NHL,NULL,D
+potvide01,Norris,1975,NHL,NULL,NULL
+potvide01,Norris,1977,NHL,NULL,NULL
+potvide01,Norris,1978,NHL,NULL,NULL
+potvide01,"Second Team All-Star",1976,NHL,NULL,D
+potvide01,"Second Team All-Star",1983,NHL,NULL,D
+potvife01,All-Rookie,1992,NHL,NULL,G
+poulida02,"King Clancy",1992,NHL,NULL,NULL
+poulida02,Selke,1986,NHL,NULL,NULL
+prattba01,"First Team All-Star",1943,NHL,NULL,D
+prattba01,Hart,1943,NHL,NULL,NULL
+prattba01,"Second Team All-Star",1944,NHL,NULL,D
+prentde01,"Second Team All-Star",1959,NHL,NULL,LW
+prestri01,"Playoff MVP",1978,WHA,NULL,NULL
+priceca01,All-Rookie,2007,NHL,NULL,G
+primejo01,"Lady Byng",1931,NHL,NULL,NULL
+primejo01,"Second Team All-Star",1933,NHL,NULL,C
+prongch01,All-Rookie,1993,NHL,NULL,D
+prongch01,"First Team All-Star",1999,NHL,NULL,D
+prongch01,Hart,1999,NHL,NULL,NULL
+prongch01,Norris,1999,NHL,NULL,NULL
+prongch01,Plus-Minus,1997,NHL,NULL,NULL
+prongch01,Plus-Minus,1999,NHL,NULL,NULL
+prongch01,"Second Team All-Star",1997,NHL,NULL,D
+prongch01,"Second Team All-Star",2003,NHL,NULL,D
+prongch01,"Second Team All-Star",2006,NHL,NULL,D
+pronoma01,"First Team All-Star",1959,NHL,NULL,D
+pronoma01,"First Team All-Star",1960,NHL,NULL,D
+pronoma01,"Second Team All-Star",1957,NHL,NULL,D
+pronoma01,"Second Team All-Star",1958,NHL,NULL,D
+provocl01,"First Team All-Star",1964,NHL,NULL,RW
+provocl01,Masterton,1967,NHL,NULL,NULL
+puppada01,"Second Team All-Star",1989,NHL,NULL,G
+quackbi01,"First Team All-Star",1947,NHL,NULL,D
+quackbi01,"First Team All-Star",1948,NHL,NULL,D
+quackbi01,"First Team All-Star",1950,NHL,NULL,D
+quackbi01,"Lady Byng",1948,NHL,NULL,NULL
+quackbi01,"Second Team All-Star",1946,NHL,NULL,D
+quackbi01,"Second Team All-Star",1952,NHL,NULL,D
+quickjo01,"Conn Smythe",2011,NHL,NULL,NULL
+quickjo01,"Second Team All-Star",2011,NHL,NULL,G
+quiltjo01,Calder,1940,NHL,NULL,NULL
+rafalbr01,All-Rookie,1999,NHL,NULL,D
+ramagro01,"First Team All-Star",1978,WHA,NULL,D
+ramsacr01,Selke,1984,NHL,NULL,NULL
+ranfobi01,"Conn Smythe",1989,NHL,NULL,NULL
+rasktu01,Crozier,2009,NHL,NULL,NULL
+ratelje01,"Lady Byng",1971,NHL,NULL,NULL
+ratelje01,"Lady Byng",1975,NHL,NULL,NULL
+ratelje01,Masterton,1970,NHL,NULL,NULL
+ratelje01,Pearson,1971,NHL,NULL,NULL
+ratelje01,"Second Team All-Star",1971,NHL,NULL,C
+raycran01,All-Rookie,2003,NHL,NULL,G
+raycran01,Calder,2003,NHL,NULL,NULL
+raynech01,Hart,1949,NHL,NULL,NULL
+raynech01,"Second Team All-Star",1948,NHL,NULL,G
+raynech01,"Second Team All-Star",1949,NHL,NULL,G
+raynech01,"Second Team All-Star",1950,NHL,NULL,G
+rayro01,"King Clancy",1998,NHL,NULL,NULL
+reardke01,"First Team All-Star",1946,NHL,NULL,D
+reardke01,"First Team All-Star",1949,NHL,NULL,D
+reardke01,"Second Team All-Star",1945,NHL,NULL,D
+reardke01,"Second Team All-Star",1947,NHL,NULL,D
+reardke01,"Second Team All-Star",1948,NHL,NULL,D
+recchma01,"Second Team All-Star",1991,NHL,NULL,RW
+reddewa01,Plus-Minus,2005,NHL,tie,NULL
+redmomi01,"First Team All-Star",1972,NHL,NULL,RW
+redmomi01,"Second Team All-Star",1973,NHL,NULL,RW
+reganla01,Calder,1956,NHL,NULL,NULL
+reibedu01,"Lady Byng",1955,NHL,NULL,NULL
+reisele02,"Second Team All-Star",1949,NHL,NULL,D
+reisele02,"Second Team All-Star",1950,NHL,NULL,D
+renbemi01,All-Rookie,1993,NHL,NULL,W
+reschgl01,Masterton,1981,NHL,NULL,NULL
+reschgl01,"Second Team All-Star",1975,NHL,NULL,G
+reschgl01,"Second Team All-Star",1978,NHL,NULL,G
+richabr01,All-Rookie,2000,NHL,NULL,F
+richabr01,"Conn Smythe",2003,NHL,NULL,NULL
+richabr01,"Lady Byng",2003,NHL,NULL,NULL
+richahe01,"First Team All-Star",1957,NHL,NULL,C
+richahe01,Masterton,1973,NHL,NULL,NULL
+richahe01,"Second Team All-Star",1958,NHL,NULL,C
+richahe01,"Second Team All-Star",1960,NHL,NULL,C
+richahe01,"Second Team All-Star",1962,NHL,NULL,C
+richama01,"First Team All-Star",1944,NHL,NULL,RW
+richama01,"First Team All-Star",1945,NHL,NULL,RW
+richama01,"First Team All-Star",1946,NHL,NULL,RW
+richama01,"First Team All-Star",1947,NHL,NULL,RW
+richama01,"First Team All-Star",1948,NHL,NULL,RW
+richama01,"First Team All-Star",1949,NHL,NULL,RW
+richama01,"First Team All-Star",1954,NHL,NULL,RW
+richama01,"First Team All-Star",1955,NHL,NULL,RW
+richama01,Hart,1946,NHL,NULL,NULL
+richama01,"Second Team All-Star",1943,NHL,NULL,RW
+richama01,"Second Team All-Star",1950,NHL,NULL,RW
+richama01,"Second Team All-Star",1951,NHL,NULL,RW
+richama01,"Second Team All-Star",1952,NHL,NULL,RW
+richama01,"Second Team All-Star",1953,NHL,NULL,RW
+richama01,"Second Team All-Star",1956,NHL,NULL,RW
+ridlemi01,All-Rookie,1985,NHL,NULL,C
+riggipa01,Jennings,1983,NHL,shared,NULL
+riggipa01,"Second Team All-Star",1983,NHL,NULL,G
+rinnepe01,"Second Team All-Star",2010,NHL,NULL,G
+roachjo01,"First Team All-Star",1932,NHL,NULL,G
+roberga01,Masterton,1995,NHL,NULL,NULL
+roberre01,"Second Team All-Star",1974,NHL,NULL,RW
+robinea01,"Second Team All-Star",1938,NHL,NULL,G
+robinla01,"Conn Smythe",1977,NHL,NULL,NULL
+robinla01,"First Team All-Star",1976,NHL,NULL,D
+robinla01,"First Team All-Star",1978,NHL,NULL,D
+robinla01,"First Team All-Star",1979,NHL,NULL,D
+robinla01,Norris,1976,NHL,NULL,NULL
+robinla01,Norris,1979,NHL,NULL,NULL
+robinla01,"Second Team All-Star",1977,NHL,NULL,D
+robinla01,"Second Team All-Star",1980,NHL,NULL,D
+robinla01,"Second Team All-Star",1985,NHL,NULL,D
+robitlu01,All-Rookie,1986,NHL,NULL,LW
+robitlu01,Calder,1986,NHL,NULL,NULL
+robitlu01,"First Team All-Star",1987,NHL,NULL,LW
+robitlu01,"First Team All-Star",1988,NHL,NULL,LW
+robitlu01,"First Team All-Star",1989,NHL,NULL,LW
+robitlu01,"First Team All-Star",1990,NHL,NULL,LW
+robitlu01,"First Team All-Star",1992,NHL,NULL,LW
+robitlu01,"Second Team All-Star",1986,NHL,NULL,LW
+robitlu01,"Second Team All-Star",1991,NHL,NULL,LW
+robitlu01,"Second Team All-Star",2000,NHL,NULL,LW
+rogermi01,Deneau,1974,WHA,"Most Gentlemanly",NULL
+rollial01,Hart,1953,NHL,NULL,NULL
+rollial01,Vezina,1950,NHL,NULL,NULL
+rolosdw01,Crozier,2003,NHL,NULL,NULL
+romnedo01,"Lady Byng",1935,NHL,NULL,NULL
+roussbo01,Calder,1961,NHL,NULL,NULL
+roussbo01,"Second Team All-Star",1965,NHL,NULL,RW
+roypa01,All-Rookie,1985,NHL,NULL,G
+roypa01,"Conn Smythe",1985,NHL,NULL,NULL
+roypa01,"Conn Smythe",1992,NHL,NULL,NULL
+roypa01,"Conn Smythe",2000,NHL,NULL,NULL
+roypa01,"First Team All-Star",1988,NHL,NULL,G
+roypa01,"First Team All-Star",1989,NHL,NULL,G
+roypa01,"First Team All-Star",1991,NHL,NULL,G
+roypa01,"First Team All-Star",2001,NHL,NULL,G
+roypa01,Jennings,1986,NHL,shared,NULL
+roypa01,Jennings,1987,NHL,shared,NULL
+roypa01,Jennings,1988,NHL,shared,NULL
+roypa01,Jennings,1991,NHL,NULL,NULL
+roypa01,Jennings,2001,NHL,NULL,NULL
+roypa01,"Second Team All-Star",1987,NHL,NULL,G
+roypa01,"Second Team All-Star",1990,NHL,NULL,G
+roypa01,Vezina,1988,NHL,NULL,NULL
+roypa01,Vezina,1989,NHL,NULL,NULL
+roypa01,Vezina,1991,NHL,NULL,NULL
+rozsimi01,Plus-Minus,2005,NHL,tie,NULL
+ryanbo01,All-Rookie,2008,NHL,NULL,F
+rydermi01,All-Rookie,2003,NHL,NULL,F
+sakicjo01,"Conn Smythe",1995,NHL,NULL,NULL
+sakicjo01,"First Team All-Star",2000,NHL,NULL,C
+sakicjo01,"First Team All-Star",2001,NHL,NULL,C
+sakicjo01,"First Team All-Star",2003,NHL,NULL,C
+sakicjo01,Hart,2000,NHL,NULL,NULL
+sakicjo01,"Lady Byng",2000,NHL,NULL,NULL
+sakicjo01,Pearson,2000,NHL,NULL,NULL
+sakicjo01,Plus-Minus,2000,NHL,tie,NULL
+salmibo01,"First Team All-Star",1976,NHL,NULL,D
+salmibo01,"Second Team All-Star",1974,NHL,NULL,D
+salmibo01,"Second Team All-Star",1975,NHL,NULL,D
+salmibo01,"Second Team All-Star",1977,NHL,NULL,D
+salmibo01,"Second Team All-Star",1978,NHL,NULL,D
+salmibo01,"Second Team All-Star",1979,NHL,NULL,D
+salosa01,All-Rookie,1998,NHL,NULL,D
+samsose01,All-Rookie,1997,NHL,NULL,F
+samsose01,Calder,1997,NHL,NULL,NULL
+sandede01,Calder,1967,NHL,NULL,NULL
+sandfed01,"Second Team All-Star",1953,NHL,NULL,LW
+sandlji01,All-Rookie,1986,NHL,NULL,RW
+sandsto01,All-Rookie,1984,NHL,NULL,RW
+sauvebo01,Jennings,1984,NHL,shared,NULL
+sauvebo01,Vezina,1979,NHL,shared,NULL
+savarde01,"Second Team All-Star",1982,NHL,NULL,C
+savarse01,"Conn Smythe",1968,NHL,NULL,NULL
+savarse01,Masterton,1978,NHL,NULL,NULL
+savarse01,"Second Team All-Star",1978,NHL,NULL,D
+sawchte01,Calder,1950,NHL,NULL,NULL
+sawchte01,"First Team All-Star",1950,NHL,NULL,G
+sawchte01,"First Team All-Star",1951,NHL,NULL,G
+sawchte01,"First Team All-Star",1952,NHL,NULL,G
+sawchte01,"Second Team All-Star",1953,NHL,NULL,G
+sawchte01,"Second Team All-Star",1954,NHL,NULL,G
+sawchte01,"Second Team All-Star",1958,NHL,NULL,G
+sawchte01,"Second Team All-Star",1962,NHL,NULL,G
+sawchte01,Vezina,1951,NHL,NULL,NULL
+sawchte01,Vezina,1952,NHL,NULL,NULL
+sawchte01,Vezina,1954,NHL,NULL,NULL
+sawchte01,Vezina,1964,NHL,shared,NULL
+schenlu01,All-Rookie,2008,NHL,NULL,D
+schmimi01,"Art Ross",1939,NHL,NULL,NULL
+schmimi01,"First Team All-Star",1939,NHL,NULL,C
+schmimi01,"First Team All-Star",1946,NHL,NULL,C
+schmimi01,"First Team All-Star",1950,NHL,NULL,C
+schmimi01,Hart,1950,NHL,NULL,NULL
+schmimi01,"Second Team All-Star",1951,NHL,NULL,C
+schneco01,Jennings,2010,NHL,shared,NULL
+schoeji01,"Second Team All-Star",1979,NHL,NULL,D
+schrisw01,"Art Ross",1935,NHL,NULL,NULL
+schrisw01,"Art Ross",1936,NHL,NULL,NULL
+schrisw01,Calder,1934,NHL,NULL,NULL
+schrisw01,"First Team All-Star",1935,NHL,NULL,LW
+schrisw01,"First Team All-Star",1940,NHL,NULL,LW
+schrisw01,"Second Team All-Star",1936,NHL,NULL,LW
+schulje02,Plus-Minus,2009,NHL,NULL,NULL
+sedinda01,"Art Ross",2010,NHL,NULL,NULL
+sedinda01,"First Team All-Star",2010,NHL,NULL,LW
+sedinda01,Lindsay,2010,NHL,NULL,NULL
+sedinda01,"Second Team All-Star",2009,NHL,NULL,LW
+sedinhe01,"Art Ross",2009,NHL,NULL,NULL
+sedinhe01,"First Team All-Star",2009,NHL,NULL,C
+sedinhe01,"First Team All-Star",2010,NHL,NULL,C
+sedinhe01,Hart,2009,NHL,NULL,NULL
+seibeea01,"First Team All-Star",1934,NHL,NULL,D
+seibeea01,"First Team All-Star",1941,NHL,NULL,D
+seibeea01,"First Team All-Star",1942,NHL,NULL,D
+seibeea01,"First Team All-Star",1943,NHL,NULL,D
+seibeea01,"Second Team All-Star",1935,NHL,NULL,D
+seibeea01,"Second Team All-Star",1936,NHL,NULL,D
+seibeea01,"Second Team All-Star",1937,NHL,NULL,D
+seibeea01,"Second Team All-Star",1938,NHL,NULL,D
+seibeea01,"Second Team All-Star",1939,NHL,NULL,D
+seibeea01,"Second Team All-Star",1940,NHL,NULL,D
+selante01,All-Rookie,1992,NHL,NULL,RW
+selante01,Calder,1992,NHL,NULL,NULL
+selante01,"First Team All-Star",1992,NHL,NULL,RW
+selante01,"First Team All-Star",1996,NHL,NULL,RW
+selante01,Masterton,2005,NHL,NULL,NULL
+selante01,Richard,1998,NHL,NULL,NULL
+selante01,"Second Team All-Star",1997,NHL,NULL,RW
+selante01,"Second Team All-Star",1998,NHL,NULL,RW
+selbybr01,Calder,1965,NHL,NULL,NULL
+sevigri01,Vezina,1980,NHL,shared,NULL
+shanabr01,"First Team All-Star",1993,NHL,NULL,LW
+shanabr01,"First Team All-Star",1999,NHL,NULL,LW
+shanabr01,"King Clancy",2002,NHL,NULL,NULL
+shanabr01,"Second Team All-Star",2001,NHL,NULL,LW
+shawbr01,All-Rookie,1989,NHL,NULL,D
+sheppra01,All-Rookie,1987,NHL,NULL,RW
+shmyrpa01,"First Team All-Star",1972,WHA,NULL,D
+shmyrpa01,"First Team All-Star",1973,WHA,NULL,D
+shmyrpa01,"First Team All-Star",1975,WHA,NULL,D
+shmyrpa01,Murphy,1975,WHA,"Best Defenceman",NULL
+shmyrpa01,"Second Team All-Star",1978,WHA,NULL,D
+shoreed01,"First Team All-Star",1930,NHL,NULL,D
+shoreed01,"First Team All-Star",1931,NHL,NULL,D
+shoreed01,"First Team All-Star",1932,NHL,NULL,D
+shoreed01,"First Team All-Star",1934,NHL,NULL,D
+shoreed01,"First Team All-Star",1935,NHL,NULL,D
+shoreed01,"First Team All-Star",1937,NHL,NULL,D
+shoreed01,"First Team All-Star",1938,NHL,NULL,D
+shoreed01,Hart,1932,NHL,NULL,NULL
+shoreed01,Hart,1934,NHL,NULL,NULL
+shoreed01,Hart,1935,NHL,NULL,NULL
+shoreed01,Hart,1937,NHL,NULL,NULL
+shoreed01,"Second Team All-Star",1933,NHL,NULL,D
+shuttst01,"First Team All-Star",1976,NHL,NULL,LW
+shuttst01,"Second Team All-Star",1977,NHL,NULL,LW
+shuttst01,"Second Team All-Star",1979,NHL,NULL,LW
+sidorpe01,All-Rookie,1988,NHL,NULL,G
+siebeba01,"First Team All-Star",1935,NHL,NULL,D
+siebeba01,"First Team All-Star",1936,NHL,NULL,D
+siebeba01,"First Team All-Star",1937,NHL,NULL,D
+siebeba01,Hart,1936,NHL,NULL,NULL
+simmech01,"First Team All-Star",1979,NHL,NULL,LW
+simmech01,"First Team All-Star",1980,NHL,NULL,LW
+simmech01,Masterton,1985,NHL,NULL,NULL
+sittlda01,"Second Team All-Star",1977,NHL,NULL,C
+sjobela01,"First Team All-Star",1977,WHA,NULL,D
+sjobela01,Murphy,1977,WHA,"Best Defenceman",NULL
+skinnje01,All-Rookie,2010,NHL,NULL,F
+skinnje01,Calder,2010,NHL,NULL,NULL
+sloanto01,"Second Team All-Star",1955,NHL,NULL,C
+smithal02,"First Team All-Star",1977,WHA,NULL,G
+smithal02,Hatskin,1977,WHA,"Best Goaltender",NULL
+smithbi01,"Conn Smythe",1982,NHL,NULL,NULL
+smithbi01,"First Team All-Star",1981,NHL,NULL,G
+smithbi01,Jennings,1982,NHL,shared,NULL
+smithbi01,Vezina,1981,NHL,NULL,NULL
+smithbo01,Calder,1978,NHL,NULL,NULL
+smithcl01,"Lady Byng",1938,NHL,NULL,NULL
+smithcl01,"Lady Byng",1943,NHL,NULL,NULL
+smithga01,Vezina,1971,NHL,shared,NULL
+smithge01,All-Rookie,1989,NHL,NULL,D
+smithho01,"First Team All-Star",1935,NHL,NULL,C
+smithho01,"Second Team All-Star",1931,NHL,NULL,C
+smithmi02,All-Rookie,2006,NHL,NULL,G
+smithno01,"First Team All-Star",1936,NHL,NULL,G
+smithno01,Vezina,1936,NHL,NULL,NULL
+smithsi01,"First Team All-Star",1954,NHL,NULL,LW
+smithsi01,"Lady Byng",1951,NHL,NULL,NULL
+smithsi01,"Lady Byng",1954,NHL,NULL,NULL
+smithsi01,"Second Team All-Star",1950,NHL,NULL,LW
+smithsi01,"Second Team All-Star",1951,NHL,NULL,LW
+staaler01,"Second Team All-Star",2005,NHL,NULL,C
+staaljo01,All-Rookie,2006,NHL,NULL,F
+stamkst01,Richard,2009,NHL,shared,NULL
+stamkst01,Richard,2011,NHL,NULL,NULL
+stamkst01,"Second Team All-Star",2010,NHL,NULL,C
+stamkst01,"Second Team All-Star",2011,NHL,NULL,C
+stanlal01,"Second Team All-Star",1959,NHL,NULL,D
+stanlal01,"Second Team All-Star",1960,NHL,NULL,D
+stanlal01,"Second Team All-Star",1965,NHL,NULL,D
+stanowa01,"First Team All-Star",1940,NHL,NULL,D
+staplpa01,"First Team All-Star",1973,WHA,NULL,D
+staplpa01,Murphy,1973,WHA,"Best Defenceman",NULL
+staplpa01,"Second Team All-Star",1965,NHL,NULL,D
+staplpa01,"Second Team All-Star",1970,NHL,NULL,D
+staplpa01,"Second Team All-Star",1971,NHL,NULL,D
+staplpa01,"Second Team All-Star",1975,WHA,NULL,D
+staplpa01,"Second Team All-Star",1976,WHA,NULL,D
+stastpa01,All-Rookie,2006,NHL,NULL,F
+stastpe01,Calder,1980,NHL,NULL,NULL
+steveke01,"First Team All-Star",1991,NHL,NULL,LW
+steveke01,"Second Team All-Star",1990,NHL,NULL,LW
+steveke01,"Second Team All-Star",1992,NHL,NULL,LW
+stevesc01,All-Rookie,1982,NHL,NULL,D
+stevesc01,"Conn Smythe",1999,NHL,NULL,NULL
+stevesc01,"First Team All-Star",1987,NHL,NULL,D
+stevesc01,"First Team All-Star",1993,NHL,NULL,D
+stevesc01,Plus-Minus,1993,NHL,NULL,NULL
+stevesc01,"Second Team All-Star",1991,NHL,NULL,D
+stevesc01,"Second Team All-Star",1996,NHL,NULL,D
+stevesc01,"Second Team All-Star",2000,NHL,NULL,D
+stewaga01,Calder,1942,NHL,NULL,NULL
+stewaga01,"First Team All-Star",1945,NHL,NULL,LW
+stewaga01,"Second Team All-Star",1947,NHL,NULL,LW
+stewaja01,"First Team All-Star",1942,NHL,NULL,D
+stewaja01,"First Team All-Star",1947,NHL,NULL,D
+stewaja01,"First Team All-Star",1948,NHL,NULL,D
+stewaja01,"Second Team All-Star",1945,NHL,NULL,D
+stewaja01,"Second Team All-Star",1946,NHL,NULL,D
+stewane01,"Art Ross",1925,NHL,NULL,NULL
+stewane01,Hart,1925,NHL,NULL,NULL
+stewane01,Hart,1929,NHL,NULL,NULL
+stlouma01,"Art Ross",2003,NHL,NULL,NULL
+stlouma01,"First Team All-Star",2003,NHL,NULL,RW
+stlouma01,Hart,2003,NHL,NULL,NULL
+stlouma01,"Lady Byng",2009,NHL,NULL,NULL
+stlouma01,"Lady Byng",2010,NHL,NULL,NULL
+stlouma01,Pearson,2003,NHL,NULL,NULL
+stlouma01,Plus-Minus,2003,NHL,tie,NULL
+stlouma01,"Second Team All-Star",2006,NHL,NULL,RW
+stlouma01,"Second Team All-Star",2009,NHL,NULL,RW
+stlouma01,"Second Team All-Star",2010,NHL,NULL,RW
+storrja01,All-Rookie,1997,NHL,NULL,G
+storrja01,All-Rookie,1998,NHL,NULL,G
+stuarbr01,All-Rookie,1999,NHL,NULL,D
+subbapk01,All-Rookie,2010,NHL,NULL,D
+sullist01,Masterton,2008,NHL,NULL,NULL
+sundima01,Messier,2007,NHL,NULL,NULL
+sundima01,"Second Team All-Star",2001,NHL,NULL,C
+sundima01,"Second Team All-Star",2003,NHL,NULL,C
+suterga01,All-Rookie,1985,NHL,NULL,D
+suterga01,Calder,1985,NHL,NULL,NULL
+suterga01,"Second Team All-Star",1987,NHL,NULL,D
+sykorpe01,All-Rookie,1995,NHL,NULL,F
+talboje01,"First Team All-Star",1961,NHL,NULL,D
+tardima01,"First Team All-Star",1975,WHA,NULL,LW
+tardima01,"First Team All-Star",1976,WHA,NULL,LW
+tardima01,"First Team All-Star",1977,WHA,NULL,LW
+tardima01,Howe,1975,WHA,MVP,NULL
+tardima01,Howe,1977,WHA,MVP,NULL
+tardima01,Hunter,1975,WHA,Scoring,NULL
+tardima01,Hunter,1977,WHA,Scoring,NULL
+tardima01,"Second Team All-Star",1974,WHA,NULL,LW
+tavarjo01,All-Rookie,2009,NHL,NULL,F
+tayloda01,"King Clancy",1990,NHL,NULL,NULL
+tayloda01,Masterton,1990,NHL,NULL,NULL
+tayloda01,"Second Team All-Star",1980,NHL,NULL,RW
+theodjo01,Crozier,2001,NHL,NULL,NULL
+theodjo01,Hart,2001,NHL,NULL,NULL
+theodjo01,Masterton,2009,NHL,NULL,NULL
+theodjo01,"Second Team All-Star",2001,NHL,NULL,G
+theodjo01,Vezina,2001,NHL,NULL,NULL
+therich01,All-Rookie,1994,NHL,NULL,D
+thomati01,"Conn Smythe",2010,NHL,NULL,NULL
+thomati01,Crozier,2008,NHL,NULL,NULL
+thomati01,Crozier,2010,NHL,NULL,NULL
+thomati01,"First Team All-Star",2008,NHL,NULL,G
+thomati01,"First Team All-Star",2010,NHL,NULL,G
+thomati01,Jennings,2008,NHL,shared,NULL
+thomati01,Vezina,2008,NHL,NULL,NULL
+thomati01,Vezina,2010,NHL,NULL,NULL
+thomppa01,"First Team All-Star",1937,NHL,NULL,LW
+thomppa01,"Second Team All-Star",1935,NHL,NULL,LW
+thompti01,"First Team All-Star",1935,NHL,NULL,G
+thompti01,"First Team All-Star",1937,NHL,NULL,G
+thompti01,"Second Team All-Star",1930,NHL,NULL,G
+thompti01,"Second Team All-Star",1934,NHL,NULL,G
+thompti01,Vezina,1929,NHL,NULL,NULL
+thompti01,Vezina,1932,NHL,NULL,NULL
+thompti01,Vezina,1935,NHL,NULL,NULL
+thompti01,Vezina,1937,NHL,NULL,NULL
+thomsbi02,"Second Team All-Star",1935,NHL,NULL,C
+thomsji01,"Second Team All-Star",1950,NHL,NULL,D
+thomsji01,"Second Team All-Star",1951,NHL,NULL,D
+thornjo01,"Art Ross",2005,NHL,NULL,NULL
+thornjo01,"First Team All-Star",2005,NHL,NULL,C
+thornjo01,Hart,2005,NHL,NULL,NULL
+thornjo01,"Second Team All-Star",2002,NHL,NULL,C
+thornjo01,"Second Team All-Star",2007,NHL,NULL,C
+tkachke01,"Second Team All-Star",1994,NHL,NULL,LW
+tkachke01,"Second Team All-Star",1997,NHL,NULL,LW
+toddke01,All-Rookie,1991,NHL,NULL,C
+toewsjo01,All-Rookie,2007,NHL,NULL,F
+toewsjo01,"Conn Smythe",2009,NHL,NULL,NULL
+toneljo01,"Second Team All-Star",1981,NHL,NULL,LW
+toneljo01,"Second Team All-Star",1984,NHL,NULL,LW
+trembjc01,"First Team All-Star",1970,NHL,NULL,D
+trembjc01,"First Team All-Star",1972,WHA,NULL,D
+trembjc01,"First Team All-Star",1974,WHA,NULL,D
+trembjc01,"First Team All-Star",1975,WHA,NULL,D
+trembjc01,Murphy,1972,WHA,"Best Defenceman",NULL
+trembjc01,Murphy,1974,WHA,"Best Defenceman",NULL
+trembjc01,"Second Team All-Star",1967,NHL,NULL,D
+trembjc01,"Second Team All-Star",1973,WHA,NULL,D
+trottbr01,"Art Ross",1978,NHL,NULL,NULL
+trottbr01,Calder,1975,NHL,NULL,NULL
+trottbr01,"Conn Smythe",1979,NHL,NULL,NULL
+trottbr01,"First Team All-Star",1977,NHL,NULL,C
+trottbr01,"First Team All-Star",1978,NHL,NULL,C
+trottbr01,Hart,1978,NHL,NULL,NULL
+trottbr01,"King Clancy",1988,NHL,NULL,NULL
+trottbr01,"Second Team All-Star",1981,NHL,NULL,C
+trottbr01,"Second Team All-Star",1983,NHL,NULL,C
+turcoma01,Crozier,2000,NHL,NULL,NULL
+turcoma01,Crozier,2002,NHL,NULL,NULL
+turcoma01,"Second Team All-Star",2002,NHL,NULL,G
+turekro01,Jennings,1998,NHL,shared,NULL
+turekro01,Jennings,1999,NHL,NULL,NULL
+turekro01,"Second Team All-Star",1999,NHL,NULL,G
+turgepi01,"Lady Byng",1992,NHL,NULL,NULL
+turgesy01,All-Rookie,1983,NHL,NULL,LW
+ullmano01,"First Team All-Star",1964,NHL,NULL,C
+ullmano01,"Second Team All-Star",1966,NHL,NULL,C
+vachoro01,"Second Team All-Star",1974,NHL,NULL,G
+vachoro01,"Second Team All-Star",1976,NHL,NULL,G
+vachoro01,Vezina,1967,NHL,shared,NULL
+vailer01,Calder,1974,NHL,NULL,NULL
+vanbijo01,"First Team All-Star",1985,NHL,NULL,G
+vanbijo01,"Second Team All-Star",1993,NHL,NULL,G
+vanbijo01,Vezina,1985,NHL,NULL,NULL
+vanekth01,Plus-Minus,2006,NHL,NULL,NULL
+vanekth01,"Second Team All-Star",2006,NHL,NULL,LW
+vaskomo01,"Second Team All-Star",1962,NHL,NULL,D
+vaskomo01,"Second Team All-Star",1963,NHL,NULL,D
+vernomi01,"Conn Smythe",1996,NHL,NULL,NULL
+vernomi01,Jennings,1995,NHL,shared,NULL
+vernomi01,"Second Team All-Star",1988,NHL,NULL,G
+verstkr01,All-Rookie,2008,NHL,NULL,F
+vickest01,Calder,1972,NHL,NULL,NULL
+vickest01,"Second Team All-Star",1974,NHL,NULL,LW
+villegi01,Vezina,1970,NHL,shared,NULL
+visnolu01,All-Rookie,2000,NHL,NULL,D
+visnolu01,"Second Team All-Star",2010,NHL,NULL,D
+vlasima01,All-Rookie,2006,NHL,NULL,D
+volekda01,All-Rookie,1988,NHL,NULL,LW
+vossca01,Calder,1932,NHL,NULL,NULL
+wakeler01,"Second Team All-Star",1977,WHA,NULL,G
+waltomi01,Hunter,1973,WHA,Scoring,NULL
+waltomi01,"Second Team All-Star",1973,WHA,NULL,RW
+wamslri01,Jennings,1981,NHL,shared,NULL
+wardca01,"Conn Smythe",2005,NHL,NULL,NULL
+wardro01,"Second Team All-Star",1972,WHA,NULL,C
+warwigr01,Calder,1941,NHL,NULL,NULL
+watsoph01,"Second Team All-Star",1941,NHL,NULL,C
+webersh01,"First Team All-Star",2010,NHL,NULL,D
+webersh01,"First Team All-Star",2011,NHL,NULL,D
+webstto01,"Second Team All-Star",1972,WHA,NULL,RW
+weighdo01,"King Clancy",2010,NHL,NULL,NULL
+weilaco01,"Art Ross",1929,NHL,NULL,NULL
+weilaco01,"Second Team All-Star",1934,NHL,NULL,C
+weinrer01,All-Rookie,1990,NHL,NULL,D
+wentwcy01,"Second Team All-Star",1934,NHL,NULL,D
+weslegl01,All-Rookie,1987,NHL,NULL,D
+westfed01,Masterton,1976,NHL,NULL,NULL
+wharrke01,"First Team All-Star",1963,NHL,NULL,RW
+wharrke01,"First Team All-Star",1966,NHL,NULL,RW
+wharrke01,"Lady Byng",1963,NHL,NULL,NULL
+whitebi01,"Second Team All-Star",1971,NHL,NULL,D
+whitebi01,"Second Team All-Star",1972,NHL,NULL,D
+whitebi01,"Second Team All-Star",1973,NHL,NULL,D
+whiteco01,All-Rookie,2000,NHL,NULL,D
+whitnra01,"Second Team All-Star",2011,NHL,NULL,LW
+willish01,All-Rookie,2000,NHL,NULL,F
+wilsodo01,"First Team All-Star",1981,NHL,NULL,D
+wilsodo01,Norris,1981,NHL,NULL,NULL
+wilsodo01,"Second Team All-Star",1984,NHL,NULL,D
+wilsodo01,"Second Team All-Star",1989,NHL,NULL,D
+worslgu01,Calder,1952,NHL,NULL,NULL
+worslgu01,"First Team All-Star",1967,NHL,NULL,G
+worslgu01,"Second Team All-Star",1965,NHL,NULL,G
+worslgu01,Vezina,1965,NHL,shared,NULL
+worslgu01,Vezina,1967,NHL,shared,NULL
+wortero01,Hart,1928,NHL,NULL,NULL
+wortero01,"Second Team All-Star",1931,NHL,NULL,G
+wortero01,"Second Team All-Star",1933,NHL,NULL,G
+wortero01,Vezina,1930,NHL,NULL,NULL
+yashial01,"Second Team All-Star",1998,NHL,NULL,C
+yorkmi01,All-Rookie,1999,NHL,NULL,F
+youngwa01,All-Rookie,1984,NHL,NULL,LW
+ysebapa01,Plus-Minus,1991,NHL,NULL,NULL
+yzermst01,All-Rookie,1983,NHL,NULL,C
+yzermst01,"Conn Smythe",1997,NHL,NULL,NULL
+yzermst01,"First Team All-Star",1999,NHL,NULL,C
+yzermst01,Masterton,2002,NHL,NULL,NULL
+yzermst01,Pearson,1988,NHL,NULL,NULL
+yzermst01,Selke,1999,NHL,NULL,NULL
+zalapza01,All-Rookie,1988,NHL,NULL,D
+zettehe01,All-Rookie,2002,NHL,NULL,F
+zettehe01,"Conn Smythe",2007,NHL,NULL,NULL
+zettehe01,"Second Team All-Star",2007,NHL,NULL,LW
+zhamnal01,"Second Team All-Star",1994,NHL,NULL,C
+zubovse01,"Second Team All-Star",2005,NHL,NULL,D
