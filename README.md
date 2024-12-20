@@ -28,4 +28,4 @@ This project consists of four main experimental components:
 * path_m (Location for mined agree sets)
 * path_out (Output location)
 
-2 Execute the desired method by passing the parameters as arguments.
+2. Execute the desired method by passing the parameters as arguments.
