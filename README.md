@@ -23,9 +23,9 @@ Four parts of experiments:
 ### Executing program
 
 * Download datasets and set values to below parameters with saved locations:
-** filename (Dataset name)
-** path_in (Dataset location)
-** path_m (Mined agree sets location)
-** path_out (Output location)
+1. filename (Dataset name)
+2. path_in (Dataset location)
+3. path_m (Mined agree sets location)
+4. path_out (Output location)
 
 * Run specified method with passing parameters
