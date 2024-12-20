@@ -4,7 +4,7 @@ Sublinear Armstrong Table Experiments
 
 ## Description
 
-Four parts of experiments:
+This project consists of four main experimental components:
 * Implementation for Sublinear Armstrong Table (5.*)
 * Implementation for Informative Sublinear Armstrong Table (6.*)
 * Sublinear Armstrong table for possible and certain keys (8.*)
@@ -16,16 +16,16 @@ Four parts of experiments:
 
 * Python 3.8
 
-### Installing
+### Installation
 
-* Download from the repo
+* Clone or download the repository from the provided link.
 
-### Executing program
+### Running the Program
 
-* Download datasets and set values to below parameters with saved locations:
-1. filename (Dataset name)
-2. path_in (Dataset location)
-3. path_m (Mined agree sets location)
-4. path_out (Output location)
+1. Download the necessary datasets and set the following parameters with the appropriate file paths:
+* filename (Dataset name)
+* path_in (Dataset location)
+* path_m (Location for mined agree sets)
+* path_out (Output location)
 
-* Run specified method with passing parameters
+2 Execute the desired method by passing the parameters as arguments.
