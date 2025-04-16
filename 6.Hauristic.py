@@ -7,7 +7,7 @@ import itertools
 
 import FunctionSet
 import ATMining
-import InitFromKey
+import InitFromAgS
 
 #logging.getLogger().addHandler(logging.StreamHandler())
 logging.getLogger().setLevel(logging.WARNING)
@@ -275,12 +275,125 @@ def VertexRank(AgS):
 
     return sorted(V)
 
-def WeightedVertexRank(AgS):
+def WeightedVertexRank_Update(AgS): ## Dynamic update
     """
     :param AgS: Agree sets occurence
     :return: Vertexes list
     """
     p = 0   # Flag to print for debugging
+
+    V = []
+    ## For agree sets only appear once
+    for k in AgS.keys():
+        if AgS[k][0] == 1:
+            i = AgS[k][1][0][0]
+            j = AgS[k][1][0][1]
+
+            if i not in V: V.append(i)
+            if j not in V: V.append(j)
+
+    weight = sum(AgS[item][0] for item in AgS) * 10
+    DupList = [item for item in AgS.keys() if AgS[item][0] > 1]
+
+    VDict = {}
+    for d in range(len(DupList)):  ## each duplicate agree set
+        k = DupList[d]
+        for a in range(AgS[k][0]):  ## each vertexes pair
+            if AgS[k][1][a][0] not in VDict.keys():
+                VDict[AgS[k][1][a][0]] = [[k], [(k, AgS[k][1][a][1])], [v for v in V if v == AgS[k][1][a][1]]] ## add VDict key with first vertex
+            else:
+                if k not in VDict[AgS[k][1][a][0]][0]:
+                    VDict[AgS[k][1][a][0]][0].append(k)  ## add unique adjacent AgS
+                if (k, AgS[k][1][a][1]) not in VDict[AgS[k][1][a][0]][1]:
+                    VDict[AgS[k][1][a][0]][1].append((k, AgS[k][1][a][1]))  ## add adjacent AgS & neighbour vertex pair
+                if AgS[k][1][a][1] in V and AgS[k][1][a][1] not in VDict[AgS[k][1][a][0]][2]:
+                    VDict[AgS[k][1][a][0]][2].append(AgS[k][1][a][1])   ## weighted vertex
+
+            if AgS[k][1][a][1] not in VDict.keys():
+                VDict[AgS[k][1][a][1]] = [[k], [(k, AgS[k][1][a][0])], [v for v in V if v == AgS[k][1][a][0]]]  ## add VDict key with second vertex
+            else:
+                if k not in VDict[AgS[k][1][a][1]][0]:
+                    VDict[AgS[k][1][a][1]][0].append(k)
+                if (k, AgS[k][1][a][0]) not in VDict[AgS[k][1][a][1]][1]:
+                    VDict[AgS[k][1][a][1]][1].append((k, AgS[k][1][a][0]))
+                if AgS[k][1][a][0] in V and AgS[k][1][a][0] not in VDict[AgS[k][1][a][1]][2]:
+                    VDict[AgS[k][1][a][1]][2].append(AgS[k][1][a][0])
+
+    for i in range(len(V)):
+        if V[i] in VDict.keys(): del VDict[V[i]]
+
+    if p:
+        print("AgS(", len(AgS), "):", AgS)
+        print("V(", len(V), "):", V)
+        print("weight =", weight)
+        print("DupList(", len(DupList), "):", DupList)
+        print("VDict(", len(VDict), "):", VDict)
+
+    chosenV = None
+    #for x in range(2):
+    while len(DupList) > 0:
+        sVDict = {}
+        for k in VDict.keys():
+            sVDict[k] = len(VDict[k][0]) + len(VDict[k][2]) * weight
+        sVDict = {k: v for k, v in sorted(sVDict.items(), key=lambda item: item[1], reverse=True)}
+        candidateV = [item for item in sVDict.keys()]
+
+        maxL = sVDict[list(sVDict.keys())[0]]
+        pool = [item for item in sVDict.keys() if sVDict[item] == maxL and item in candidateV]
+        if p:
+            print("sVDict(", len(sVDict), "):", sVDict)
+            print("pool(", len(pool), "):", pool)
+
+        chosenV = random.choice(pool)
+        if chosenV not in V: V.append(chosenV)
+        if chosenV in VDict.keys(): del VDict[chosenV]
+        if p: print("{} is chosen.".format(chosenV))
+
+        ## Check Duplist
+        ToRemove = []
+        for i in range(len(DupList)):    ## each duplicate agree set
+            for j in range(AgS[DupList[i]][0]): ## each vertexes pair
+                if AgS[DupList[i]][1][j][0] in V and AgS[DupList[i]][1][j][1] in V:  ## both vertexes in V
+                    ToRemove.append(DupList[i])
+                    #AgS[DupList[i]] = [1, [(AgS[DupList[i]][1][j][0], AgS[DupList[i]][1][j][1])]]
+                    if p: print("Duplicate of ", DupList[i], "has been removed.")
+                    break
+
+        DupList = [item for item in DupList if item not in ToRemove]
+
+        ToDelete = []
+        for k in VDict.keys():
+            VDict[k][0] = [item for item in VDict[k][0] if item not in ToRemove]    ##remove AgS becomes unique
+            if len(VDict[k][0]) == 0:
+                ToDelete.append(k)
+                if p: print(k, "has been deleted from VDict")
+            else:
+                for i in range(len(VDict[k][1])):
+                    ## duplicate AgS adjacent to vertex in V
+                    if VDict[k][1][i][0] not in ToRemove and chosenV == VDict[k][1][i][1] and chosenV not in VDict[k][2]:
+                        VDict[k][2].append(chosenV)
+                    ## unique AgS with neighbor vertex already in V
+                    elif VDict[k][1][i][0] in ToRemove and VDict[k][1][i][1] in VDict[k][2]:
+                        VDict[k][2].remove(VDict[k][1][i][1])
+
+        for i in range(len(ToDelete)):
+           if ToDelete[i] in VDict.keys(): del VDict[ToDelete[i]]
+
+        if p:
+            print("V(", len(V), ")", V)
+            print("DupList(", len(DupList), ")", DupList)
+            print("VDict(", len(VDict))#, "):", VDict)
+
+    print("WEIGHTED VERTEX RANK: {} vertexes left: {}".format(len(V), sorted(V)))
+
+    return sorted(V)
+
+def WeightedVertexRank_old(AgS):
+    """
+    :param AgS: Agree sets occurence
+    :return: Vertexes list
+    """
+    p = 0  # Flag to print for debugging
 
     VDict = {}
     for k in AgS.keys():
@@ -310,23 +423,23 @@ def WeightedVertexRank(AgS):
             if i in VDict.keys(): del VDict[i]
             if j not in V: V.append(j)
             if j in VDict.keys(): del VDict[j]
-    if p: print("VDict:", VDict)
 
     weight = (len(VDict) + sum(AgS[item][0] for item in AgS)) * 10
     DupList = [item for item in AgS.keys() if AgS[item][0] > 1]
-    if len(DupList) > 0:
+
+    ## Randomly choose highest rank vertexes
+    while len(DupList) > 0:
         sVDict = {}
         for k in VDict.keys():
             sVDict[k] = len(VDict[k][0]) + len([item for item in VDict[k][1] if item in V]) * weight
         sVDict = {k: v for k, v in sorted(sVDict.items(), key=lambda item: item[1], reverse=True)}
         candidateV = [item for item in sVDict.keys()]
 
-    ## Randomly choose highest rank vertexes
-    while len(DupList) > 0:
         maxL = sVDict[list(sVDict.keys())[0]]
         pool = [item for item in sVDict.keys() if sVDict[item] == maxL and item in candidateV]
-        if p: print("All vertexes left:", sVDict)
-        if p: print("Candidate vertexes pool: ", pool)
+        if p:
+            print("sVDict", sVDict)
+            print("pool: ", pool)
 
         chosenV = random.choice(pool)
         if p: print("{} is chosen.".format(chosenV))
@@ -334,12 +447,12 @@ def WeightedVertexRank(AgS):
         if chosenV in VDict.keys(): del VDict[chosenV]
 
         ## Check agree sets appearance
-        for k in AgS.keys():
+        for k in AgS.keys():    ## for each AgS
             if AgS[k][0] > 1:
-                tempAgS = copy.deepcopy(AgS[k])
+                tempAgS = copy.deepcopy(AgS[k]) ##eg. tempAgS = [2, [(70, 126), (70, 138)]]
                 for i in range(tempAgS[0]):
-                    if tempAgS[1][i][0] in V and tempAgS[1][i][1] in V:
-                        ## Take off removed egdes from VDict
+                    if tempAgS[1][i][0] in V and tempAgS[1][i][1] in V: ## both vertexes in V
+                        ## Take off removed egdes from VDict - cList = [70, 126, 138] - [70, 126]
                         cList = [item for item in list(set(itertools.chain(*AgS[k][1]))) if item not in tempAgS[1][i]]
                         for j in range(len(cList)):
                             if cList[j] in VDict.keys():
@@ -374,8 +487,96 @@ def WeightedVertexRank(AgS):
 
     return sorted(V)
 
-f = 'breast_cancer_wisconsin'
-Mining = True
+def WeightedVertexRank(AgS):
+    """
+    :param AgS: Agree sets occurence
+    :return: Vertexes list
+    """
+    p = 0   # Flag to print for debugging
+
+    V = []
+    ## For agree sets only appear once
+    for k in AgS.keys():
+        if AgS[k][0] == 1:
+            i = AgS[k][1][0][0]
+            j = AgS[k][1][0][1]
+
+            if i not in V: V.append(i)
+            if j not in V: V.append(j)
+
+    weight = sum(AgS[item][0] for item in AgS) * 10
+    DupList = [item for item in AgS.keys() if AgS[item][0] > 1]
+
+    if p:
+        print("AgS(", len(AgS), "):", AgS)
+        print("V(", len(V), "):", V)
+        print("weight =", weight)
+        print("DupList(", len(DupList), "):", DupList)
+
+    #for x in range(2):
+    while len(DupList) > 0:
+        VDict = {}
+        for d in range(len(DupList)):  ## each duplicate agree set
+            k = DupList[d]
+            for a in range(AgS[k][0]):  ## each vertexes pair
+                if AgS[k][1][a][0] not in V:
+                    if AgS[k][1][a][0] not in VDict.keys():
+                        VDict[AgS[k][1][a][0]] = ([k], [v for v in V if v == AgS[k][1][a][1]])  ## add VDict key with first vertex
+                    else:
+                        if k not in VDict[AgS[k][1][a][0]][0]:
+                            VDict[AgS[k][1][a][0]][0].append(k)  ## add unique adjacent AgS
+                        if AgS[k][1][a][1] in V and AgS[k][1][a][1] not in VDict[AgS[k][1][a][0]][1]:
+                            VDict[AgS[k][1][a][0]][1].append(AgS[k][1][a][1])  ## weighted vertex
+
+                if AgS[k][1][a][1] not in V:
+                    if AgS[k][1][a][1] not in VDict.keys():
+                        VDict[AgS[k][1][a][1]] = ([k], [v for v in V if v == AgS[k][1][a][0]]) ## add VDict key with second vertex
+                    else:
+                        if k not in VDict[AgS[k][1][a][1]][0]:
+                            VDict[AgS[k][1][a][1]][0].append(k)
+                        if AgS[k][1][a][0] in V and AgS[k][1][a][0] not in VDict[AgS[k][1][a][1]][1]:
+                            VDict[AgS[k][1][a][1]][1].append(AgS[k][1][a][0])
+
+        sVDict = {}
+        for k in VDict.keys():
+            sVDict[k] = len(VDict[k][0]) + len(VDict[k][1]) * weight
+        sVDict = {k: v for k, v in sorted(sVDict.items(), key=lambda item: item[1], reverse=True)}
+        candidateV = [item for item in sVDict.keys()]
+
+        maxL = sVDict[list(sVDict.keys())[0]]
+        pool = [item for item in sVDict.keys() if sVDict[item] == maxL and item in candidateV]
+        if p:
+            print("VDict(", len(VDict), "):", VDict)
+            print("sVDict(", len(sVDict), "):", sVDict)
+            print("pool(", len(pool), "):", pool)
+
+        chosenV = random.choice(pool)
+        if chosenV not in V: V.append(chosenV)
+        if p: print("{} is chosen.".format(chosenV))
+
+        ## Check Duplist
+        ToRemove = []
+        for i in range(len(DupList)):    ## each duplicate agree set
+            for j in range(AgS[DupList[i]][0]): ## each vertexes pair
+                if AgS[DupList[i]][1][j][0] in V and AgS[DupList[i]][1][j][1] in V:  ## both vertexes in V
+                    ToRemove.append(DupList[i])
+                    #AgS[DupList[i]] = [1, [(AgS[DupList[i]][1][j][0], AgS[DupList[i]][1][j][1])]]
+                    if p: print("Duplicate of ", DupList[i], "has been removed.")
+                    break
+
+        DupList = [item for item in DupList if item not in ToRemove]
+
+        if p:
+            print("V(", len(V), ")", V)
+            print("DupList(", len(DupList), ")", DupList)
+            print("VDict(", len(VDict), "):", VDict)
+
+    print("WEIGHTED VERTEX RANK: {} vertexes left: {}".format(len(V), sorted(V)))
+
+    return sorted(V)
+
+f = 'echocardiogram'
+Mining = False
 pa1 = "/Users/wye1/Documents/Armstrong/DataSets/naumann_small/"
 pa2 = "/Users/wye1/Documents/Armstrong/DataSets/naumann_mined_agree_sets/"
 path = "/users/wye1/Documents/Armstrong/Informative/WorkFolder/"
@@ -394,7 +595,7 @@ if __name__ == "__main__":
         R = MineResult[2]
         AgSDict = MineResult[3]
     else:
-        Result = InitFromKey.InitGraph(ATFile, ASFile)
+        Result = InitFromAgS.InitGraph(ATFile, ASFile)
         AgSList = Result[1]
         R = Result[2]
         AgSDict = Result[3]
@@ -440,11 +641,11 @@ if __name__ == "__main__":
     End4 = datetime.datetime.now()
     print("Runs for: ", End4 - Start4)
 
-    Start5  = datetime.datetime.now()
-    copyAgS = copy.deepcopy(AgS)
-    V5 = VertexRank(copyAgS)
-    End5 = datetime.datetime.now()
-    print("Runs for: ", End5 - Start5)
+    #Start5  = datetime.datetime.now()
+    #copyAgS = copy.deepcopy(AgS)
+    #V5 = VertexRank(copyAgS)
+    #End5 = datetime.datetime.now()
+    #print("Runs for: ", End5 - Start5)
 
     Start6  = datetime.datetime.now()
     copyAgS = copy.deepcopy(AgS)

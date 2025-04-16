@@ -6,10 +6,10 @@ import itertools
 
 import FunctionSet
 import ATMining
-import InitFromKey
+import InitFromAgS
 
 def KeyVCheck(AgSi):
-    ## Key vertexes for given agree set
+    ## Key vertexes for AgSi - adjacent to all edges labelled AgSi
     c = [AgSi[1][0][0], AgSi[1][0][1]]
     for i in range(AgSi[0] - 1):
         c = [value for value in c if value in AgSi[1][i + 1]]
@@ -118,104 +118,58 @@ def HaurPick(candidateV, V, OpVDict):
 
     return random.choice(pool)
 
-def RemoveEdge(keep, A, e, Z, AgS, OpVDict):
-    """
-    :param keep: Boolean of keep the edge and remove other or remove this edge
-    :param A: Agree set on the edge
-    :param e: The edge to keep or remove
-    :param Z: The vertex to remove
-    :param AgS: Agree set occurence
-    :param OpVDict: Vertexes dictionary
-    :return: 1: Updated AgS, 2: Updated OpVDict
-    """
-    p = 0   # Flag to print for debugging
-
-    copyAgSi = copy.deepcopy(AgS[A])
-    if keep:
-        if p: print("Keep edge {} and duplicates of {} to remove.".format(e, A))
-        XList = []
-        for i in range(copyAgSi[0]):
-            if copyAgSi[1][i] != e:
-                XList.append(copyAgSi[1][i])
-
-        AgS[A][0] = 1
-        AgS[A][1].clear()
-        AgS[A][1].append(e)
-
-        for j in range(len(XList)):
-            if XList[j][0] in OpVDict.keys() and XList[j][1] in OpVDict[XList[j][0]]['conn']:
-                OpVDict[XList[j][0]]['len'] -= 1
-                if A in OpVDict[XList[j][0]]['edges']: OpVDict[XList[j][0]]['edges'].remove(A)
-                OpVDict[XList[j][0]]['conn'].remove(XList[j][1])
-            if XList[j][1] in OpVDict.keys() and XList[j][0] in OpVDict[XList[j][1]]['conn']:
-                OpVDict[XList[j][1]]['len'] -= 1
-                if A in OpVDict[XList[j][1]]['edges']: OpVDict[XList[j][1]]['edges'].remove(A)
-                OpVDict[XList[j][1]]['conn'].remove(XList[j][0])
-    else:   ## Remove edge e
-        XList = []
-        for i in range(copyAgSi[0]):
-            if copyAgSi[1][i] == e:
-                if copyAgSi[1][i][0] == Z:
-                    XList.append((copyAgSi[1][i][1], A))
-                else:
-                    XList.append((copyAgSi[1][i][0], A))
-
-                AgS[A][0] -= 1
-                AgS[A][1].remove(e)
-
-        copyAgS = copy.deepcopy(AgS)
-        for k in copyAgS.keys():
-            for j in range(copyAgS[k][0]):
-                if copyAgS[k][1][j][0] == Z:
-                    XList.append((copyAgS[k][1][j][1], k))
-                    AgS[k][0] -= 1
-                    AgS[k][1].remove(copyAgS[k][1][j])
-                elif copyAgS[k][1][j][1] == Z:
-                    XList.append((copyAgS[k][1][j][0], k))
-                    AgS[k][0] -= 1
-                    AgS[k][1].remove(copyAgS[k][1][j])
-
-        for n in range(len(XList)):
-            if XList[n][0] in OpVDict.keys() and Z in OpVDict[XList[n][0]]['conn']:
-                OpVDict[XList[n][0]]['len'] -= 1
-                if XList[n][1] in OpVDict[XList[n][0]]['edges']: OpVDict[XList[n][0]]['edges'].remove(XList[n][1])
-                OpVDict[XList[n][0]]['conn'].remove(Z)
-
-        if Z in OpVDict.keys():
-            del OpVDict[Z]
-            if p: print("{} has been removed from OpVDict".format(Z))
-
-    return {1: AgS, 2: OpVDict}
-
-def Domination(AgS):
+def RemoveDominated(AgS, rList):
     """
     :param AgS: Agree set occurence
-    :return: Vertexes list
+    :param rList: Dominated vertexes to remove
+    :return: Updated AgS
     """
 
-    p = 0   # Flag to print for debugging
+    ToRemove = {}
+    for k in AgS.keys():
+        if AgS[k][0] > 1:
+            for j in range(AgS[k][0]):
+                if AgS[k][1][j][0] in rList or AgS[k][1][j][1] in rList:
+                    if k not in ToRemove:
+                        ToRemove[k] = [AgS[k][1][j]]
+                    else:
+                        ToRemove[k].append(AgS[k][1][j])
 
-    counter = 0
-    dCounter = 0
+    for k in ToRemove.keys():
+        AgS[k][0] -= len(ToRemove[k])
+        for i in range(len(ToRemove[k])):
+            AgS[k][1].remove(ToRemove[k][i])
+            #print("RemoveDominated: ", k, ToRemove[k][i], "has been removed from the graph")
+
+    return AgS
+
+def UpdateGraph(AgS, ForcedV):
+    """
+    :param AgS: Agree set occurence
+    :param ForcedV: Forced vertexes list
+    :return: 1: V; 2: AList; 3: OpVDict
+    """
+
     V = []
     AList = []
-    OpVDict = {}
     for k in AgS.keys():
         ## Key vertexes for agree sets only appear once
         if AgS[k][0] == 1:
             i = AgS[k][1][0][0]
             j = AgS[k][1][0][1]
 
-            if p: print("{} and {} are key vetexes of unique agree set {}.".format(i, j, k))
+            #print("UpdateGraph: {} and {} are key vetexes of unique agree set {}.".format(i, j, k))
             if i not in V: V.append(i)
             if j not in V: V.append(j)
-        else:
+        else:   ## Key vertexes for certain agree sets
             AList.append(k)
             c = KeyVCheck(AgS[k])
             if len(c) > 0:
-                if p: print("{} is key vetex of agree set {}.".format(c[0], k))
+                #print("UpdateGraph: {} is key vetex of agree set {}.".format(c[0], k))
                 if c[0] not in V: V.append(c[0])
 
+    OpVDict = {}
+    for k in AgS.keys():
         for j in range(AgS[k][0]):
             ## Candidate vertexes for dominance check
             if AgS[k][1][j][0] not in OpVDict.keys():
@@ -238,92 +192,110 @@ def Domination(AgS):
                 OpVDict[AgS[k][1][j][1]]["edges"].append(k)
                 OpVDict[AgS[k][1][j][1]]["conn"].append(AgS[k][1][j][0])
 
-    if p:
-        print("Key vertexes ({}): {}".format(len(V), sorted(V)))
-        print("Vertexes for dominance check({}): {}".format(len(OpVDict), OpVDict))
-        print("Duplicated agree sets({}): {}".format(len(AList), AList))
+    for i in range(len(V)):
+        if V[i] in OpVDict.keys():
+            del OpVDict[V[i]]
 
+    for j in range(len(ForcedV)):
+        if ForcedV[j] in OpVDict.keys():
+            del OpVDict[ForcedV[j]]
+
+    return {1: V, 2:AList, 3: OpVDict}
+
+def Domination(AgS):
+    """
+    :param AgS: Agree set occurence
+    :return: Vertexes list
+    """
+
+    p = 0   # Flag to print for debugging
+
+    counter = 0
+    dCounter = 0
+    ForcedV = []
+    output = UpdateGraph(AgS, ForcedV)
+    V = output[1]
+    AList = output[2]
+    OpVDict = output[3]
     v_dominating = []
     v_dominated = [item for item in list(OpVDict.keys()) if item not in V]
+
     if p:
+        print("Validated vertexes ({}): {}".format(len(V + ForcedV), sorted(V)))
+        print("Vertex dictionary ({}): {}".format(len(OpVDict), OpVDict))
+        print("Duplicated agree sets({}): {}".format(len(AList), AList))
         print("v_dominating ({}): {}".format(len(v_dominating), v_dominating))
         print("v_dominated ({}): {}".format(len(v_dominated), v_dominated))
 
+    #for x in range(40):
     while len(AList) > 0:
-        if len(v_dominated) > 0:
-            v0 = v_dominated[0]
-            v_check = []
-            for i in range(OpVDict[v0]['len']):
-                v_check = v_check + list(set(itertools.chain.from_iterable(AgS[OpVDict[v0]['edges'][i]][1])) - set(v_check))
-            v_check = [item for item in v_check if item != v0]
-            if p: print("Domination check for {} with ({}): {}".format(v0, len(v_check), sorted(v_check)))
+        while len(v_dominated) > 1:
+            v0 = v_dominated.pop(0)
+            if p: print("Domination check for {} with other {} vertexes: {}".format(v0, len(v_dominated), v_dominated))
 
             rList = []
-            for j in range(len(v_check)):
+            for j in range(len(v_dominated)):
                 counter += 1
-                DomPair = DomCheck(v0, v_check[j], OpVDict, V)
+                DomPair = DomCheck(v0, v_dominated[j], OpVDict, V)
                 if len(DomPair) > 0:
                     rList.append(DomPair[1])
+                    if p: print(DomPair[1], "is dominated by", DomPair[0])
                     dCounter += 1
                     if DomPair[1] == v0:
                         break
 
-            if len(rList) > 0:
-                copyAList = copy.deepcopy(AList)
-                for i in range(len(copyAList)):
-                    A = copyAList[i]
-                    tempAgS = copy.deepcopy(AgS[A])
-                    for j in range(tempAgS[0]):
-                        zList = [value for value in tempAgS[1][j] if value in rList]
-                        if len(zList) > 0:
-                            update = RemoveEdge(0, A, tempAgS[1][j], zList[0], AgS, OpVDict)
-                            AgS = update[1]
-                            OpVDict = update[2]
-                            if p: print("{} {} has been removed from graph.".format(A, tempAgS[1][j]))
+            if len(rList) > 0:  ## domination(s) occurred
+                AgS = RemoveDominated(AgS, rList)
+                break
+            else:
+                v_dominating.append(v0)
+                if p: print("No domination occurred for", v0, "and others")
 
-                    if AgS[A][0] == 1:
-                        if AgS[A][1][0][0] not in V: V.append(AgS[A][1][0][0])
-                        if AgS[A][1][0][1] not in V: V.append(AgS[A][1][0][1])
-                        if AgS[A][1][0][0] in v_dominated: v_dominated.remove(AgS[A][1][0][0])
-                        if AgS[A][1][0][1] in v_dominated: v_dominated.remove(AgS[A][1][0][1])
-                        AList.remove(A)
-                        if p: print("Duplicates of {} has been removed from graph.".format(A))
-                    else:
-                        c = KeyVCheck(AgS[A])
-                        if len(c) > 0:
-                            if p: print("{} is key vetex of agree set {} now.".format(c[0], A))
-                            if c[0] not in V: V.append(c[0])
-                            if c[0] in v_dominated: v_dominated.remove(c[0])
-
-                if p: print("Vertexes to remove from the graph: {}".format(rList))
-                v_dominated =  [item for item in v_dominated if item not in rList]
-            if v0 not in rList and v0 not in V: v_dominating.append(v0)
-            if v0 in v_dominated: v_dominated.remove(v0)
+        if len(rList) > 0:
+            output = UpdateGraph(AgS, ForcedV)
+            V = output[1]
+            AList = output[2]
+            OpVDict = output[3]
+            v_dominating = []
+            v_dominated = [item for item in list(OpVDict.keys()) if item not in V]
 
             if p:
+                print("Validated vertexes ({}): {}".format(len(V + ForcedV), sorted(V)))
+                print("Vertex dictionary ({}): {}".format(len(OpVDict), OpVDict))
+                print("Duplicated agree sets({}): {}".format(len(AList), AList))
                 print("v_dominating ({}): {}".format(len(v_dominating), v_dominating))
                 print("v_dominated ({}): {}".format(len(v_dominated), v_dominated))
-                print("Key vertexes update({}): {}".format(len(V), sorted(V)))
-                print("Duplicated agree sets update ({}): {}".format(len(AList), AList))
-                print("Agree set occurrence updated ({}): {}".format(len(AgS), AgS))
-        elif len(v_dominating) > 0:
+
+        if len(v_dominating) > 0:
             ## Hauristic pick vertex among highest rank
-            ChosenV = HaurPick(v_dominating, V, OpVDict)
+            ChosenV = HaurPick(v_dominated + [v0], V + ForcedV, OpVDict)
 
-            if ChosenV not in V: V.append(ChosenV)
-            if ChosenV in v_dominating: v_dominating.remove(ChosenV)
-            if p: print("{} has been forced into graph.".format(ChosenV))
+            if ChosenV not in ForcedV: ForcedV.append(ChosenV)
+            if ChosenV in v_dominated: v_dominated.remove(ChosenV)
+            if p: print("Hauristic pick: {} has been forced into graph.".format(ChosenV))
 
-            v_dominated = copy.deepcopy(v_dominating)
-            v_dominating.clear()
+            UniqueAgS = {}
+            TotalV = V + ForcedV
+            for k in AgS.keys():
+                if AgS[k][0] > 1:
+                    for i in range(AgS[k][0]):
+                        if AgS[k][1][i][0] in TotalV and AgS[k][1][i][1] in TotalV:   ## AgS[k] becomes unique
+                            UniqueAgS[k] = (AgS[k][1][i][0], AgS[k][1][i][1])
+                            break
 
-        if p:
-            print("v_dominating ({}): {}".format(len(v_dominating), v_dominating))
-            print("v_dominated ({}): {}".format(len(v_dominated), v_dominated))
-            print("Key vertexes ({}): {}".format(len(V), sorted(V)))
-            print("Duplicated agree sets({}): {}".format(len(AList), AList))
-            print("Agree set occurrence ({}): {}".format(len(AgS), AgS))
+            for k in UniqueAgS.keys():
+                AgS[k] = [1, [UniqueAgS[k]]]
 
+            output = UpdateGraph(AgS, ForcedV)
+            V = output[1]
+            AList = output[2]
+            OpVDict = output[3]
+            v_dominating = []
+            v_dominated = [item for item in list(OpVDict.keys()) if item not in V]
+
+        if p: print("Agree set occurrence ({}): {}".format(len(AgS), AgS))
+
+    print("Agree set occurrence ({}): {}".format(len(AgS), AgS))
     V1 = []
     for k in AgS.keys():
         V1 = sorted(V1 + list(set(AgS[k][1][0]) - set(V1)))
@@ -331,29 +303,17 @@ def Domination(AgS):
     print("DOMINATION: {} vertexes left (V1): {}".format(len(V1), sorted(V1)))
     print("Vertexs removed by domination: ", dCounter)
 
-    ## Result check
-    for k in AgS.keys():
-        for i in range(len(AgS[k][1])):
-            if AgS[k][1][i][0] not in V1 or AgS[k][1][i][1] not in V1:
-                AgS[k][0] -=1
-    for k in AgS.keys():
-        if AgS[k][0] < 1:
-            print(k, AgS[k])
-    for k in AgS.keys():
-        if AgS[k][0] > 1:
-            print(k, AgS[k])
-
     return {1: V1, 2: dCounter, 3: counter}
 
-f = 'iris'
+f = 'chess'
 Mining = False
 pa1 = "/Users/wye1/Documents/Armstrong/DataSets/naumann_small/"
-pa2 = "/Users/wye1/Documents/Armstrong/DataSets/naumann_mined/"
+pa2 = "/Users/wye1/Documents/Armstrong/DataSets/naumann_mined_agree_sets/"
 path = "/users/wye1/Documents/Armstrong/Informative/WorkFolder/"
 #pa = "D:/Wendy/Armstrong/DataSets/naumann_small/"
 #path = "D:/Wendy/Armstrong/Informative/WorkFolder/"
 ATFile = pa1 + f + '.csv'
-KeyFile = pa2 + f + '.txt'
+ASFile = pa2 + f + '.txt'
 
 # Main
 if __name__ == "__main__":
@@ -365,7 +325,7 @@ if __name__ == "__main__":
         R = MineResult[2]
         AgSDict = MineResult[3]
     else:
-        Result = InitFromKey.InitGraph(ATFile, KeyFile)
+        Result = InitFromAgS.InitGraph(ATFile, ASFile)
         AgSList = Result[1]
         R = Result[2]
         AgSDict = Result[3]
